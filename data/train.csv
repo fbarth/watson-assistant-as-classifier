@@ -1,0 +1,3711 @@
+Quem pintou este quadro?,autor_obra
+Qual o autor desta obra?,autor_obra
+quem fez esta obra?,autor_obra
+quem fez este quadro?,autor_obra
+Quem é o autor desta obra?,autor_obra
+135831 ? que numero é esse ?,significado_numero
+O que o número '135831' representa?,significado_numero
+qual é o significado do numero 135831 ao lado esquerdo da pintura?,significado_numero
+O que o número 135831 significa?,significado_numero
+O que o '135831' representa?,significado_numero
+qual o significado do número '135831' no quadro? ,significado_numero
+Os numeros 135831 representam alguma coisa ?,significado_numero
+135831,significado_numero
+O que significam os numeros 135831?,significado_numero
+O que representa o número 135831 no quadro?,significado_numero
+O que significa 135831?,significado_numero
+O que significa o número 135831?,significado_numero
+porque tem aquele número 135831?,significado_numero
+o que o número 135831 significa?,significado_numero
+Qual nome da,sem_compreensão
+Conte me mais sobre essa obra,significado_obra
+Esta imagem é da cidade de São Paulo?,localização_obra
+O que significa o número 135831 no prédio?,significado_numero
+o que significa o numero 135831?,significado_numero
+O que siginifca este número 135831?,significado_numero
+O que significa o número 135831?,significado_numero
+O que significa o número 135831 no quadro?,significado_numero
+O que é 135831?,significado_numero
+O número 135831 significa o que?,significado_numero
+o que é 135831?,significado_numero
+o que o número 135831 significa nesta obra?,significado_numero
+o que é o rio azul lá atrás?,elementos_rio
+quantas figuras geométricas?,formas_obra
+Por que as figuras são geométricas?,formas_obra
+Por que existem tantas figuras geométricas?,formas_obra
+o personagem de vermelho é um macaco?,elemento_vermelho
+Por quê uma pessoa tem um rabo de macaco ?,elemento_vermelho
+Eu achei que tem um macaco na bobra...,elemento_vermelho
+Isso é um macaco?,elemento_vermelho
+Você é um macaco?,elemento_vermelho
+o que significa esse número?,significado_numero
+O que significa esse número?,significado_numero
+o que significa o numero na pintura?,significado_numero
+O que significa o numero no predio?,significado_numero
+O que o número representa?,significado_numero
+O que é esse número?,significado_numero
+o que significa esse numero do predio esquerdo?,significado_numero
+O que significa o número no plano de fundo à esquerda?,significado_numero
+O que significa esse número?,significado_numero
+O que significa o número que consta no quadro?,significado_numero
+O número se refere a um ônibus?,significado_numero
+O que significam os numeros à esquerda?,significado_numero
+O que será que significa esse numero do lado esquerdo?,significado_numero
+O que significa o numero?,significado_numero
+Porque você tem esses números em sua pintura?,significado_numero
+Que número é esse em sua pintura?,significado_numero
+o número que aparece na tela tem algum significado para o artista? ,significado_numero
+Qual o estilo dessa obra?,estilo_pintura
+Qual estilo de pintura você representa?,estilo_pintura
+Estilo?,estilo_pintura
+O que é modernismo?,estilo_pintura
+Quem pintou esse quadro?,autor_obra
+Quem pintou esse quadro?,autor_obra
+Quem pintou esse quadro?,autor_obra
+Quem pintou este quadro?,autor_obra
+quem é tarsila do Amaral?,biografia_tarsila
+Quem foi Tarsila do Amaral?,biografia_tarsila
+Quem foi Tarsila?,biografia_tarsila
+Onde é essa cidade?,localização_obra
+"Que local é esse, onde fica? ",localização_obra
+Onde estão as pessoas?,localização_obra
+Onde fica esta cidade?,localização_obra
+Aonde vocês vivem?,localização_obra
+Que local é este ?,localização_obra
+Qual local de são paulo é retratado na pintura?,localização_obra
+Que cidade ela pintou?,localização_obra
+Essa é alguma cidade específica?,localização_obra
+Que cidade ele quer retratar?,localização_obra
+A imagem representa qual cidade?,localização_obra
+São Paulo é o nome da Cidade?,localização_obra
+que cidade é essa?,localização_obra
+Que cidade é essa?,localização_obra
+Que cidade está retratada?,localização_obra
+A pintura retrata uma cidade ?,localização_obra
+Que cidade é essa?,localização_obra
+esta obra retrata uma cidade? ,localização_obra
+Que cidade seria essa?,localização_obra
+que lugar é este?,localização_obra
+Quando isto foi pintado ?,data_obra
+Quando você foi pintado?,data_obra
+Quando a obra foi pintada?,data_obra
+Quando esse quadro foi feito ? ,data_obra
+Quando o quadro foi pintado?,data_obra
+Em que época você foi pintado?,data_obra
+que epoca a obra foi pintada?,data_obra
+A imagem representa São Paulo de qual época?,data_obra
+que lugar é este ?,localização_obra
+Qual o significado dessa numeração utilizada?,significado_numero
+O que o numeral no canto superior esquerdo representa?,significado_numero
+de onde o bondinho está vindo?,destino_bonde
+para onde o bondinho está indo?,destino_bonde
+o que é modernismo?,estilo_pintura
+"Esta obra pertenceu ao modernismo. De forma resumida, o que foi o modernismo?",estilo_pintura
+O que é Modernismo?,estilo_pintura
+O que o modernismo costuma representar,estilo_pintura
+qual o significado da obra?,significado_obra
+o que significa esse quadro?,significado_obra
+O que significa esta pintura ?,significado_obra
+o que significa esse quadro?,significado_obra
+O que significa esta representação?,significado_obra
+o que significa esta obra?,significado_obra
+O que significa?,significado_obra
+O que esse quadro significa?,significado_obra
+descreva o quadro?,significado_obra
+qual a mensagem do artista ?,significado_obra
+Qual o objetivo do pintor nesta obra?,significado_obra
+O que o artista quis demonstrar com a figura?,significado_obra
+O que o quadro quer mostrar?,significado_obra
+Quais outras obras do mesmo artista são relacionadas a essa?,outras_obras
+Quais outras obras da artista são conhecidas internacionalmente?,outras_obras
+Em que ano você foi pintado?,data_obra
+Que época de são paulo era essa?,obra_contexto_histórico
+Que epoca esta imagem representa ?,obra_contexto_histórico
+a pessoa tem um rabo?,elemento_vermelho
+Esta pessoa de vermelho tem um rabo?,elemento_vermelho
+o homem de vermelho tem rabo ?,elemento_vermelho
+"O que é isso ao lado da pessoa em vermelho, é um rabo?",elemento_vermelho
+Por que a pessoa de vermelho tem um rabo?,elemento_vermelho
+por que essa figura de vermelho tem rabo?,elemento_vermelho
+Por que o cara de vermelho parece ter um rabo?,elemento_vermelho
+Por que o moço de vermelho tem um rabo?,elemento_vermelho
+Porque a pessoa de vermelho parece ter um rabo?,elemento_vermelho
+Porque a pessoa de vermelho tem um rabo?,elemento_vermelho
+Porque o homem de vermelho tem rabo?,elemento_vermelho
+Porque o personagem vermelho tem um rabo ?,elemento_vermelho
+Porque voce de vermelho tem rabo ?,elemento_vermelho
+Por que o boneco tem um rabo?,elemento_vermelho
+por que o homem tem um rabo ?,elemento_vermelho
+Por que uma das pessoas tem rabo?,elemento_vermelho
+porque a pessoa tem rabo?,elemento_vermelho
+Porque a pessoa tinha rabo de gato?,elemento_vermelho
+Porque a representação de uma pessoa com um rabo? Devia ser um gato?,elemento_vermelho
+Porque o home tem rabo?,elemento_vermelho
+Qual o nome deste quadro?,nome_obra
+Qual o nome desse quadro?,nome_obra
+Qual o nome do quadro?,nome_obra
+Quais as formas que podemos identificar nessa obra?,formas_obra
+Por que este quadro tem estas formas?,formas_obra
+Qual lugar esta pintura representa?,localização_obra
+Que lugar é este?,localização_obra
+O que representa essa quadro da Tarsila do Amaral?,significado_obra
+"Onde Tarsila do Amaral, pintou esse quadro e em que ano?",localização_obra
+foi uma criança que desenhou?,autor_obra
+1) Que tipo de arte é?,estilo_pintura
+Em museus está exposta?,museu_obra
+O que a artista queria retratar nesta obra?,significado_obra
+O que a artista quis retratar?,significado_obra
+Qual é a paisagem referencia dessa pintura ?,localização_obra
+A qual movimento ela pertence?,estilo_pintura
+que número é esse que aparece?,significado_numero
+O que você sabe sobre a Tarsila?,biografia_tarsila
+Em que momento histórico se insere Tarsila do Amaral?,obra_contexto_histórico
+Qual período da história do Brasil essa obra representa ?,obra_contexto_histórico
+O que Tarsila estava pensando quando pintou esta obra?,sem_resposta
+O que Tarsila estava sentindo quando pintou esta obra?,sem_resposta
+qual foi a técnica utilizada? óleo? ,técnica_obra
+O que esta obra representa?,significado_obra
+Qual foi a importância de Tarsila para o movimento artístico da época?,importância_artista
+Quão importante foi Tarsila do Amaral para o modernismo?,importância_artista
+Essa obra foi influenciada por outros artista da epoca ou de obras semelhantes?,influências_artista
+O que ela estava buscando retratar?,significado_numero
+Este quadro retrata qual década?,data_obra
+Qual conceito dessas cores utilizadas?,cores_obra
+Por que tantas cores?,cores_obra
+As cores dessa obra diferem de obras anteriores da autora ou a mesma apenas usou cores de outros quadros próprios?,cores_obra
+é no Brasil?,localização_obra
+essas coisas na frente são pessoas?,pessoas_obra
+Essas figuras na frente são pessoas?,pessoas_obra
+O que vemos em primeiro plano são pessoas?,pessoas_obra
+O que as pessoas estão fazendo?,pessoas_obra
+Existem pessoas na imagem?,pessoas_obra
+sao duas pessoas?,pessoas_obra
+vocês são pessoas?,pessoas_obra
+São postes ou pessoas desenhados no quadro?,pessoas_obra
+Em qual bairro eles estão?,localização_obra
+Qual o valor atual do quadro?,valor_obra
+Quanto custa este quadro?,valor_obra
+que mensagem este quadro quer passar?,significado_obra
+O que acontecia em São Paulo ? ,significado_obra
+O que essa pintura representa?,significado_obra
+Quanto vale este quadro?,valor_obra
+Qual o artista que fez este quadro?,autor_obra
+Qual foi a proposta da pintora nessa obra?,significado_obra
+Por que as pessoas não têm rosto?,pessoas_obra
+Por que as pessoas são esquisitas?,pessoas_obra
+porque as pessoas não tem braços?,pessoas_obra
+você foi inspirado em figuras geometricas?,formas_obra
+Por que ele parece que foi feito por uma criança?,formas_obra
+Qual o contexto histórico da obra de arte?,obra_contexto_histórico
+em que foi inspirado?,inspiração_obra
+O que representam as figuras vermelha e azul?,pessoas_obra
+Por que as pessoas não têm braços e uma delas tem uma espécie de cauda?,pessoas_obra
+é um macaco de vermelho?,elemento_vermelho
+O individuo de vermelho é um gato?,elemento_vermelho
+Por que a pessoa de vermelho tem um rabinho?,elemento_vermelho
+Por que a pessoa da esquerda tem uma cauda?,elemento_vermelho
+Essa pessoa próximo a árvore mais a frente poderia ser um macaco?,elemento_vermelho
+Esta pergunta é de qual período?,data_obra
+Esta pintura é de qual períoro?,data_obra
+Nome da obra?,nome_obra
+Qual o nome da obra?,nome_obra
+Qual o nome da tela ? ,nome_obra
+Quais estilos influenciaram o modernismo?,estilo_pintura
+Onde foi pintada?,localização_obra
+De onde e esta paisagem ?,localização_obra
+aonde essa pintura foi feita ?,localização_obra
+Onde é?,localização_obra
+onde é isso?,localização_obra
+Qual o movimento artistico essa pintura faz parte?,estilo_pintura
+o que esta figura quer dizer?,significado_obra
+o que quer dizer este quadr?,significado_obra
+O que quis dizer com a obra,significado_obra
+O que Tarsila do Amaral quis dizer com essa pintura?,significado_obra
+O que tarsila quis dizer com esta pintura?,significado_obra
+qual o contexto?,significado_obra
+Porque Tarsila do Amaral pintou este quadro?,significado_obra
+em que bairro é?,localização_obra
+Onde nasceu Tarsila do Amaral,nascimento_autor
+O que significam esses números 3h58 31,significado_numero
+Porque a árvore é tão redonda,elemento_árvore_redonda
+O que que essa árvore é toda redonda,elemento_árvore_redonda
+Qual é a árvore do centro da pintura,elemento_árvore_redonda
+Porque tem um coqueiro lá no fundo?,elemento_árvore_fundo
+é o retrato de uma represa?,significado_obra
+O que é esse negócio azil com uma bola branca? parece uma garrafa,elemento_azul
+Isso é modernismo? ,estilo_pintura
+O que é modernismo?,estilo_pintura
+Em que época surgiu o modernismo no Brasil?,estilo_pintura
+O que é modernismo?,estilo_pintura
+o que é modernismo?,estilo_pintura
+o que é modernismo?,estilo_pintura
+o que é modernismo?,estilo_pintura
+o que é modernismo?,estilo_pintura
+Em que época esse quadro foi pintado?,data_obra
+Qual a tinta utilizada?,técnica_obra
+as janelas dos prédios estão abertas ou fechadas?,sem_resposta
+o que tem de modernismo na pintura?,características_obra
+Por que é modernismo?,características_obra
+quais as caracteristicas do modernismo?,características_obra
+Em que época o mordernismo nasceu?,estilo_pintura
+Qual tinta é usada para pintar?,técnica_obra
+porque os personagens nao tem caras?,pessoas_obra
+A autora diz qual foi sua inspiração para ter feito a pintura?,inspiração_obra
+O que são essas duas imagens que parecem uma lampada?,pessoas_obra
+Biografia do artista?,biografia_tarsila
+É um bonde ali no fundo?,elementos_bonde
+É um trem ou bonde na figura?,elementos_bonde
+No fundo é um trem ou uma ponte?,elementos_viaduto
+isso é um trem ? ou uma ponte ?,elementos_viaduto
+Tem um ponte na figura?,elementos_viaduto
+a estrada vira rio ? ou rio vira estrada ?,elementos_viaduto
+A bola branca com o corpo azul é um poste de luz?,elemento_azul
+esta figura de azul e um homem?,elemento_azul
+O número 135831 tem algum significado?,significado_numero
+O que significa essa figura do lado direito (em azul)?,elemento_azul
+"O que essa figura azul com uma bolinha branca em cima, no primeiro plano, representa?",elemento_azul
+Por que a palmeira está sozinha entre dois prédios?,elemento_árvore_fundo
+Qual mensagem a pintora quis passar?,significado_obra
+O que acontece nesse quadro?,significado_obra
+esta muito quente?,clima_obra
+O que este quadro significa?,significado_obra
+O que significa esse quadro?,significado_obra
+o que significa?,significado_obra
+Poderia falar um pouco sobre a biografia da Trasila?,biografia_tarsila
+Que bicho tem no quadro?,pessoas_obra
+Esses traços foram inspirados em que?,estilo_pintura
+Quanto tempo Tarsila levou para fazer esta obra?,duração_obra
+aquilo e um trem saindo de uma fabrica?,elementos_bonde
+O que significa no numero 135831?,significado_numero
+O que significa o número 135831?,significado_numero
+O que representa o número 135831?,significado_numero
+O que os numeros 135831 representam ?,significado_numero
+Porque tem o numero 135831 ?,significado_numero
+O que significa o número 135831?,significado_numero
+o que significa o número 135831 ?,significado_numero
+O que significa 135831?,significado_numero
+o que significa 135831?,significado_numero
+o que representa 135831?,significado_numero
+Por que o número 135831?,significado_numero
+O que quer dizer este numero (135831) nesta obra?,significado_numero
+O que significa o numero 135831 ?,significado_numero
+O que quer dizer o numero 135831 ?,significado_numero
+o por que do número 135831?,significado_numero
+O que o artista quis dizer com os números 135831?,significado_numero
+Esse número 135831 tem algum significado?,significado_numero
+o que representam os números 135831 presentes no quadro?,significado_numero
+A que se refere o número 135831?,significado_numero
+O que significa o número 135831?,significado_numero
+O que significa 135831?,significado_numero
+"Gostaria de ver o quadro sem as letras da legenda, elas atrapalham, devem estar fora. Me deixam confusa se o número 135831 eram do quadro ou do label, pode esclarecer?",significado_numero
+o que quer dizer o numero 135831?,significado_numero
+O que é o número 135831 neste quadro?,significado_numero
+"O número 135831 , qual o significado ? ",significado_numero
+Por que o numero 135831 esta registrado naquele prédio?,significado_numero
+O que é o número 135831?,significado_numero
+O que significa o numero 135831?,significado_numero
+o que significa o número 135831 que aparece na pintura?,significado_numero
+O que significa o número 135831?,significado_numero
+Por que ter linhas simétricas?,formas_obra
+como se chama esta forma de pintar?,formas_obra
+porque a pintura parece infantil? ,formas_obra
+Porquê a árvore é redonda?,formas_obra
+Por que é tudo quadrado e redondo?,formas_obra
+Por que esta imagem esta retratando a cidade de sao paulo?,significado_obra
+Qual o nome dos gatos vermelho e azul?,elemento_vermelho
+Como Tarsila do Amaral mostrava o modernismo em suas pinturas?,características_obra
+isto é uma fabrica?,elemento_estrutura_metal
+O pintor esta tentando descrever algo em sua cidade natal?,significado_obra
+por nao foi possível registrar a pergunta?,sem_compreensão
+Onde posso visitar este quadro?,museu_obra
+Em qual museu encontro este quadro?,museu_obra
+Em que a pintora se inspirou para pintar este quadro?,inspiração_obra
+a artista se inspirou em algum momento de sua vida para criar essa obra?,inspiração_obra
+Este cenário existe de verdade ou foi inspiração de Tarsila?,inspiração_obra
+cadê as sombras das coisas?,sombras_obra
+O que estava acontecendo quando esse quadro foi feito?,obra_contexto_histórico
+O que representam os numeros no fundo?,significado_numero
+O que significam aqueles números?,significado_numero
+O que significa o número no prédio?,significado_numero
+qual o significado destes numeros?,significado_numero
+O que significa esses números?,significado_numero
+O que significa o numero no quadro.,significado_numero
+O que significa aquela numero ?,significado_numero
+O que significa esse número à esquerda?,significado_numero
+"Qual o motivo de ter números nessa pintura, como essa idéia surgiu e o que significa?",significado_numero
+Por que aqueles números?,significado_numero
+O que é aquele número?,significado_numero
+Os números tem algum significado ou são aleatórios?,significado_numero
+o que significam os números no prédio da esquerda?,significado_numero
+O que esse número na tela quer dizer?,significado_numero
+Qual o significado do número retratado nesta pintura?,significado_numero
+O que significa os números na obra?,significado_numero
+o que representa este número?,significado_numero
+O que significa os números na imagem?,significado_numero
+O que significa o número no quadro?,significado_numero
+o que quer dizer o numero no prédio? ,significado_numero
+O que significa o número que aparece no quadro?,significado_numero
+Qual o significado do numero?,significado_numero
+O que significam aqueles números?,significado_numero
+O que o número no quadro quer dizer?,significado_numero
+o que representa esse numero ?,significado_numero
+O que significa esse número?,significado_numero
+Qual o contexto social?,significado_obra
+O que o artista queria passar com essa obra?,significado_obra
+Resumo da obra?,significado_obra
+Do que é isso?,significado_obra
+O que você retrata?,significado_obra
+o que esta acontecendo nessa figura?,significado_obra
+Qual a origem dessa pintura?,significado_obra
+Que local é esse?,localização_obra
+Qual local de são paulo é retratado na pintura?,localização_obra
+Qual cidade se localiza o desenho?,localização_obra
+Qual local de São Paulo está representado na obra?,localização_obra
+Que local de São Paulo está retratado nesta obra?,localização_obra
+Qual cidade é essa?,localização_obra
+Onde é esta cidade?,localização_obra
+Qual cidade é essa?,localização_obra
+Que cidade é essa ?,localização_obra
+"Quando Tarsila o pintou, o que parte da cidade ela quis retratar com estas figuras?",localização_obra
+Essa cidade retradada existe?,localização_obra
+Qual cidade esta sendo retratado por essa pintura?,localização_obra
+Qual cidade a pintora tentou retratar?,localização_obra
+Foi retratado algum lugar especifico de uma cidade?,localização_obra
+Qual época o artista representou?,obra_contexto_histórico
+Que cidade é essa?,localização_obra
+Que cidade é essa?,localização_obra
+O que o pintor quis demostrar?,significado_obra
+qual a intenção do artista ao fazer esta obra ?,significado_obra
+Qual  a idade desta quadro?,data_obra
+o que representam as figuras quase humanas mostradas? ,pessoas_obra
+qual tipo de arte este quadro representa,estilo_pintura
+O que representa essa imagem?,significado_obra
+O que esta imagem representa?,significado_obra
+O que esta obra representa?,significado_obra
+O que o autor da obra quis representar com este quadro?,significado_obra
+O que ela representa para os dias atuais ? ,significado_obra
+Qual a representação do quadro?,significado_obra
+Porque ela acha que esse quadro representa são paulo?,significado_obra
+O que a pintura representa?,significado_obra
+O que a obra representa?,significado_obra
+O que o artista quis representar nessa obra?,significado_obra
+O que Tarsila quis representar com este quadro?,significado_obra
+O que ela representa?,significado_obra
+O que esta tela representa?,significado_obra
+Esta obra representa alguma cidade em especial?,significado_obra
+Essa obra representa o dia-a-dia na cidade grande?,significado_obra
+Qual a representação dessa obra?,significado_obra
+O que o quadro representa?,significado_obra
+quanto custa este quadro?,valor_obra
+Por que o pintor utilizou formas geométricas? ,formas_obra
+por que a utilizacao de formas geometricas no modernismo é tao constante?,formas_obra
+Por que o quadro apresenta tantas formas geométricas?,formas_obra
+Por quê todas as figuras possuem formas geométricas bem definidas?,formas_obra
+Por que as formas são todas geométricas?,formas_obra
+Essa obra é antes ou depois de Abaporu?,sem_resposta
+Quantos habitantes tem São Paulo?,sem_resposta
+como um dautonico enxergaria essa obra?,sem_resposta
+Existe replica desta obra?,sem_resposta
+Representam duas crianças brincando?,pessoas_obra
+Este cenário representa algum lugar específico ? Qual ?,localização_obra
+O que representa a estrutura preta no centro da tela?,elementos_viaduto
+Quais símbolos de São Paulo Tarsila do Amaral representou neste quadro?,formas_obra
+testando,sem_compreensão
+Por que as pessoas pintadas por ela não tem braços e rosto?,pessoas_obra
+O que o autor quer transmitir com esta obra? ,significado_obra
+Que ponto de vista a artista desejou ter retratado?,significado_obra
+Essa pintura retrata a poluicao?,significado_obra
+O que essa pintura retrata?,significado_obra
+Qual a crítica implícita na obra? ,significado_obra
+Tarsila desejava mostra que a cidade moderna poderia ser bela também?,significado_obra
+"Com o crescimento das cidades, a cidade perderia a beleza?",significado_obra
+"Será que quis retratar o mundo atual das grandes cidades, em que falta vida?",significado_obra
+O que o artista pensou ao fazer este desenho ?,significado_obra
+Qual a história desta pintura?,significado_obra
+o sentido desta pintura seria não fazer sentido?,significado_obra
+O que o autor quis mostrar com esta obra?,significado_obra
+porque falta vida nessa obra ?,significado_obra
+Por que a pintora pintou este quadro?,significado_obra
+Por que foi desenhado?,significado_obra
+Por que de o pintor utilizar figuras geométricas?,formas_obra
+O que são exatamente essas figuras?,pessoas_obra
+"o personagem em primeiro plano, de vermelho, é um homem ou macaco?",elemento_vermelho
+O que significa essa espécie de 'rabo' na figura do lado esquerdo (em vermelho)?,elemento_vermelho
+Vocês estão em um local seguro?,sem_compreensão
+Porque foi escolhido essa temática portar sim ela,formas_obra
+São edifícios ou são favelas no fundo,elemento_edifício
+Esses prédios representa,elemento_edifício
+Onde fica a pinacoteca de são Paulo?,sem_compreensão
+o predio horizontal é o MASP ?,sem_compreensão
+o que é esta imagem qual o significado? ,significado_obra
+qual o significado desse quadro,significado_obra
+Qual o significado desta obra?,significado_obra
+Qual o significado desta obra?,significado_obra
+quanto vale o quadro? ,valor_obra
+Quanto vale esta obra?,valor_obra
+Qual artista fez essa pintura?,autor_obra
+Em que época viveu Trasila do Amaral?,biografia_tarsila
+Biografia do artista?,biografia_tarsila
+Em que época viveu o artista?,biografia_tarsila
+Qual a impostancia da artista na época em que viveu?,importância_artista
+Qual era a religião do artista?,religiao_artista
+Os personagens são animais?,pessoas_obra
+Qual o valor aproximado dessa obra?,valor_obra
+Valor da obra?,valor_obra
+Que valor esta obra tem para a sociedade nos dias de hoje?,valor_obra
+Qual o valor desta obra?,valor_obra
+Que outras obras esse artista pintou?,outras_obras
+que outras obras estao relacionadas a essa?,outras_obras
+onde tarcila morava?,moradia_autor
+São animais na foto?,pessoas_obra
+Isso é um gato?,elemento_vermelho
+Qual o nome do modelo da esquerda?,elemento_vermelho
+Esta obra é uma representação de qual estilo artístico?,estilo_pintura
+Existe um trem na pintura?,elementos_bonde
+Quantas cores diferentes tem nesse quadro? ,cores_obra
+Qual s importância das cores para o modernismo?,cores_obra
+Esta imagem é do Rio de Janeiro ?,localização_obra
+Qual foi seu professor?,mentor_artista
+Qual o contexto cultural?,obra_contexto_histórico
+Qual era o contexto político da época em que a obra foi criada?,obra_contexto_histórico
+"Tarsila do Amaral foi a mais proemintente pintora brasileira. Atribui-se a Tarsila do Amaral a reimplantação na arte brasileira do colorido 'desavergonhado' tipicamene brasileiro. Contudo, seus quadros sofrem influência direta de um de seus professores da Paris dos anos 20, que também lançava mão de cores vivas, formas geométricas e comparava o Cubismo à Renascença. Quem é esse professor? ",influências_artista
+"A qual genero, ou segmento, pertence essa obra?",estilo_pintura
+Que materiais o artista utilizou?,técnica_obra
+Isso é um posto de gasolina?,pessoas_obra
+a personagem de vermelho tem um rabo?,elemento_vermelho
+A pessoa tem um rabo?,elemento_vermelho
+Por que a pessoa de vermelho possui um rabo ?,elemento_vermelho
+Por que a pessoa de vermelho tem um rabo?,elemento_vermelho
+Porque o homem de vermelho tem rabo ?,elemento_vermelho
+Por que o personagem vestido de azul não tem rabo ?,elemento_azul
+É um rabo/calda saíndo do boneco laranja?,elemento_vermelho
+É uma pessoa com rabo na frente?,elemento_vermelho
+Esse homem tem rabo?,elemento_vermelho
+"Mesmo sendo um exemplo de modernismo, qual o significado da pessoa com rabo ?",elemento_vermelho
+O que significa este 'rabo' na pessoa de roupa vermelha?,elemento_vermelho
+O que significa o rabo preto do homem con camisa vermelha? Por que o qa,elemento_vermelho
+por que a pessoa vestida de laranja tem um rabo?,elemento_vermelho
+Por que o homem tem um rabo?,elemento_vermelho
+por que tem rabo?,elemento_vermelho
+Por quê um dos homens tem um rabo? ,elemento_vermelho
+Por quê uma das pessoas tem um rabo?,elemento_vermelho
+Por que uma pessoa na foto possui um rabo?,elemento_vermelho
+Por que uma pessoa tem um rabo?,elemento_vermelho
+Porque a pessoa tem rabo?,elemento_vermelho
+porque a pessoa tem um rabo?,elemento_vermelho
+Porque a pessoa tem um rabo?,elemento_vermelho
+Porque ele tem um rabo?,elemento_vermelho
+Porque o moço de roupa vermelha tem um rabo ?,elemento_vermelho
+porque o poste tem um rabo?,elemento_vermelho
+porque um dos homens tem um rabo?,elemento_vermelho
+porque um dos homes tem um rabo?,elemento_vermelho
+A artista fez obras semelhantes?,outras_obras
+quando foi pintado?,data_obra
+Quando foi pintada?,data_obra
+Quando foi pintada esta arte?,data_obra
+Quando a pintura foi feita?,data_obra
+Quando a obra foi feita? ,data_obra
+quando foi feita essa pintura?,data_obra
+Quando a obra foi pintada? Qual cidade  ela representa?,data_obra
+Quando esse quadro foi pintado?,data_obra
+Quando foi criada essa obra de arte ?,data_obra
+Quando foi pintado?,data_obra
+De quando é esse quadro?,data_obra
+quando foi feita a pintura?,data_obra
+Qual a importância desta obra no modernismo brasileiro?,importância_obra
+qual a importância desta tela na obra de Tarsila do amaral?,importância_obra
+O quê faz desta uma peça de arte importante?,importância_obra
+Em qual momento esse quadro foi feito e por quê é considerado importante?,importância_obra
+Por que esse quadro é importante?,importância_obra
+Qual a importância desta obra para a arte brasileira?,importância_obra
+Qual a importância política/histórica dela?,importância_obra
+Quais foram as inspirações e aspirações para a obra de arte?,inspiração_obra
+A Tarsila teve inspiração de onde para fazer esse quadro?,inspiração_obra
+Qual foi a inspiração?,inspiração_obra
+Qual foi a inspiração de Tarsila para essa obra?,inspiração_obra
+Essa obra foi inspirada na realidade da Tarsila do Amaral ? O que a inspirou?,inspiração_obra
+Qual foi a inspiração do autor para esta obra?,inspiração_obra
+Qual foi a sua inspiração para essa pintura?,inspiração_obra
+Quando foi que Tarsila do Amaral fez essa obra Sala modernismo? Qual foi a sua inspiração para fazer essa obra?,inspiração_obra
+Inspirada em que a autora o criou?,inspiração_obra
+Quem mora aí,autor_obra
+o ,sem_compreensão
+o ,sem_compreensão
+Qual ,sem_compreensão
+o que torna esta obra única?,importância_obra
+Qual era o momento vivido na cidade de São Paulo na época em que a obra foi produzida?,obra_contexto_histórico
+Quem foi Tarcila do Amaral?,biografia_tarsila
+Quem criou esta obra?,autor_obra
+Quem é seu criador?,autor_obra
+Quem é o autor da obra?,autor_obra
+quem pintou você?,autor_obra
+Quem é o artista?,autor_obra
+quem desenhou isso?,autor_obra
+De qual data é essa obra?,data_obra
+Qual data foi divulgada essa pintura?,data_obra
+qual a data de conclusao da obra?,data_obra
+qual foi a data que o quadro foi pintado ?,data_obra
+"o que faz desta, uma obra tão importante?",importância_obra
+O que vcs estão fazendo ?,significado_obra
+O que é isso?,significado_obra
+Quais as referências de Tarsila?,influências_artista
+Informação sobre o artista?,biografia_tarsila
+Onde nasceu o artista?,nascimento_autor
+Que lugar é esse na pintura?,localização_obra
+Que lugar é esse?,localização_obra
+"A pintura é de algum lugar real, ou é fictício?",localização_obra
+Esse lugar é baseado em um lugar real?,localização_obra
+Que lugar de São Paulo?,localização_obra
+O que esta obra procura expressar?,significado_obra
+O que expressa esse quadro?,significado_obra
+O que a artista queria expressar com essa obra?,significado_obra
+Qual a história deste quadro?,significado_obra
+Qual é a história deste quadro?,significado_obra
+Qual é a história deste quadro?,significado_obra
+Onde posso ver mais telas desse artista?,outras_obras
+Qual a primeira obra deste artista?,sem_resposta
+Essa obra foi inspirada em algum lugar específico da cidade?,inspiração_obra
+qual o movimento artistico que esta obra representa?,estilo_pintura
+Qual movimento artístico esse quadro representa?,estilo_pintura
+Qual o movimento estava occorendo quando pintou a obra?,estilo_pintura
+As pessoas estão esperando alguém?,pessoas_obra
+É uma pessoa ou um poste?,pessoas_obra
+Há pessoas no quadro?,pessoas_obra
+Isso são pessoas?,pessoas_obra
+na parte de baixo são pessoas ou postes de luz ?,pessoas_obra
+No quadro existem duas figuras que parecem pessoas. São pessoas ou uma bomba de gasolina e uma chancela?,pessoas_obra
+O que as duas pessoas representam na obra?,pessoas_obra
+O que esta pessoa está fazendo?,pessoas_obra
+Os bonecos são pessoas?,pessoas_obra
+Por qual motivo nao existem pessoas sendo retratadas?,pessoas_obra
+Qual a importância da pintora para o Modernismo?,importância_artista
+por que as pessoas não estão personificadas?,pessoas_obra
+"porque as pessoas não possuem pé, rosto e nem mão ?",pessoas_obra
+"Quais as inspirações da artista? (pessoas, música, etc)",inspiração_obra
+São duas pessoas ali? Um menino e uma menina?,pessoas_obra
+sao pessoas ?,pessoas_obra
+São pessoas aqui no começo?,pessoas_obra
+São pessoas no retrato?,pessoas_obra
+A pessoa retratada na pintura tem uma cauda ? ,elemento_vermelho
+"Isso ao lado da àrvore, de vermelho, é uma pessoa?",elemento_vermelho
+o vermelho é um poste? uma pessoa? ou um animal?,elemento_vermelho
+Por que a pessoa de vermelho possui uma cauda?,elemento_vermelho
+por que a pessoa de azul tem um pescoço gigantesco,elemento_azul
+uma das pessoas tem uma cauda?,elemento_vermelho
+Porque a outra pessoa parece uma garrafa?,elemento_azul
+Quando morreu o artista?,morte_autor
+Essa pintura é de uma fábrica?,elemento_estrutura_metal
+Tasila do Amaral está vido ainda?,morte_autor
+Porque é artista escolheu essas coisas,inspiração_obra
+Qual aquele rio que passa lá,elementos_rio
+Quais são as dimensões dessa pintura,técnica_obra
+A artista fez algum ensaio antes de pintar essa obra?,sem_resposta
+Porque tem uma linha dividindo o céu?,sem_resposta
+Tarsila do Amaral é Tarsila do Amaral por que ela tinha um bom merchant?,sem_resposta
+Porque a pessoa do desse quadro é neutra,pessoas_obra
+Qual é altura dessa estrutura preta,sem_resposta
+Qual é altura dessa estrutura,sem_resposta
+a qual estilo de pintura pertence essa obra ? ,estilo_pintura
+Qual estilo de pintura adotado por essa artista?,estilo_pintura
+Estilo?,estilo_pintura
+Que estilo de arte é essa?,estilo_pintura
+qual a técnica utilizada?,técnica_obra
+que técnica é usada?,técnica_obra
+Qual é a técnica utilizada?,técnica_obra
+Qual a técnica utilizada na sua criação?,técnica_obra
+ Qual a técnica utilizada?,técnica_obra
+qual nome da tecnica de pintura?,técnica_obra
+Essa arte moderna emprega qual técnica?,técnica_obra
+qual a tecnica de pintura empregada na realizacao dessa obra?,técnica_obra
+qual a tecnica usada nesse quadro?,técnica_obra
+foi bem aceita? ou recebeu críticas pela simplicidade da técnica?,importância_obra
+O que significa 135831?,significado_numero
+quais elementos nesse quadro o fazem ser classificado como Modernista?,características_obra
+Qual a mensagem que a autora quis passar?,significado_obra
+Que bairro é esse?,localização_obra
+O cara de vermelho tem um rabo?,elemento_vermelho
+qual o material usado na obra ?,técnica_obra
+qual o material usado nessa obra?,técnica_obra
+Com que material é feito?,técnica_obra
+O que quer dizer aquele número?,significado_numero
+Aquilo ali é um rabo?,elemento_vermelho
+por que tem rabo?,elemento_vermelho
+Porque ela fez essa obra,significado_obra
+qual o título da obra,nome_obra
+Alguém incentivou o autor a criar esta obra?,influências_artista
+Por que o desenho é simétrico?,formas_obra
+Quem pintou ?,autor_obra
+porque esse quadro é importante?,importância_obra
+Onde nasceu,nascimento_autor
+qual a mensagem dessa obra?,significado_obra
+Qual a mensagem que a obra passa ?,significado_obra
+Qual a mensagem da pintura ? ,significado_obra
+Qual a mensagem que o pintor quer passar?,significado_obra
+Que época ela retrata?,obra_contexto_histórico
+Me fale mais sobre Tarsila do Amaral,biografia_tarsila
+Quala a biografia da Tarsila do Amaral?,biografia_tarsila
+Quem é Tarsila do Amaral?,biografia_tarsila
+Quem era Tarsila do Amaral?,biografia_tarsila
+Quem foi Tarsila do A.?,biografia_tarsila
+quem foi tarsila do amaral?,biografia_tarsila
+Quem foi Tarsila do Amaral?,biografia_tarsila
+Quem foi Tarsila do Amaral?,biografia_tarsila
+Quem foi Tarsila do Amaral?,biografia_tarsila
+Quem foi Tarsila do Amaral?,biografia_tarsila
+Quem foi Tarsila do Amaral?,biografia_tarsila
+quem foi tarsila?,biografia_tarsila
+onde nasceu Tarsila do Amaral?,nascimento_autor
+Onde nasceu Tarsila do Amaral?,nascimento_autor
+Onde tarsila vive,moradia_autor
+Quais as obras de Tarsila,outras_obras
+"O personagem com corpo vermelho e uma garrafa, um gato ou uma luminaria?",elemento_vermelho
+O que é a figura vermelha?,elemento_vermelho
+O que,sem_compreensão
+o que significa esta obra?,significado_obra
+Porque as pessoas da pintura não teêm rosto?,pessoas_obra
+Essa obra corresponde aqui período da Tarsila do Amaral,estilo_pintura
+Quais são as cores do quadro?,cores_obra
+Esta obra representa algum cotidiano da vida da pintora?,significado_obra
+Qual o ano em que essa tela foi pintada?,data_obra
+Que ano foi pintado?,data_obra
+Qual o ano deste quadtro?,data_obra
+Em que ano está obra foi feita? ,data_obra
+Em que ano foi pintada?,data_obra
+Em que ano essa obra foi feita?,data_obra
+Ano?,data_obra
+Em que ano esse quadro voi pintando?,data_obra
+Em qual ano você está?,data_obra
+em que ano foi feita,data_obra
+Qual o ano da pintura ?,data_obra
+De que ano é essa pintura?,data_obra
+Em qual ano foi feita a obra?,data_obra
+Há quantos anos foi pintada?,data_obra
+Em que ano esse quadro foi pintado ?,data_obra
+em que ano esse quadro foi pintado,data_obra
+Em que ano a pintura foi feita?,data_obra
+Em que ano essa obra foi criada?,data_obra
+Em que ano foi pintado ?,data_obra
+em que ano você foi pintado?,data_obra
+Qual o ano em que foi pintado?,data_obra
+Em que ano este quadro foi pintado?,data_obra
+qual o ano ?,data_obra
+Em que ano foi feita a obra?,data_obra
+Aquilo lá atrás é um trem?,elementos_bonde
+Quantos anos a pintora tinha quando fez esta obra?,idade_autor_obra
+Quantos anos tinha o pintor quando pintou a tela?,idade_autor_obra
+Essa é uma ponte para o ônibus passar?,elementos_viaduto
+Tem uma ponte sobre o rio?,elementos_viaduto
+O que é aquela ponte atrás?,elementos_viaduto
+Quem foi o mentor desse artista?,mentor_artista
+Que pintores e outros artistas influenciaram a Tarsila nesse período em que ela pintou essa obra?,influências_artista
+Quais outros artistas modernos brasileiros influenciaram Tarsila?,influências_artista
+Quais influencias possui esta obra ?,influências_artista
+Quais foram as influencias da artista?,influências_artista
+Quem foram as principais influencias?,influências_artista
+Tem influência dos impressionistas?,influências_artista
+Quais as referências de Tarsila?,influências_artista
+porque a pessoa tem rabo ?,elemento_vermelho
+Quem é Tarsila do Amaral?,biografia_tarsila
+qual o nome do quadro?,nome_obra
+porque a pessoa de vermelho tem um rabo?,elemento_vermelho
+Qual é o tamanho exato da obra,técnica_obra
+A parte azul do quadro tem um rio,elementos_rio
+Qual artista da obra,autor_obra
+Eu quero saber sobre o rio,elementos_rio
+Quantos anos tinha Tarsila Amaral quando ela pintou esse quadro,idade_autor_obra
+Aquela estrutura no fundo é um viaduto?,elementos_viaduto
+Por que se chama Sala Modernismo?,sem_resposta
+o que significa este quadro?,significado_obra
+Quais são as outras obras de Tarsila do Amaral?,outras_obras
+Macaco?,elemento_vermelho
+O que significa essa obra,significado_obra
+São Paulo na época desse quadro não tinha trânsito,sem_resposta
+Onde estão os carros,sem_resposta
+Você é uma obra modernista,estilo_pintura
+Tem um bom dia,sem_compreensão
+Que bom que esta,sem_compreensão
+Qual o impacto desse quadro na história da arte?,obra_contexto_histórico
+essa é a cidade de sao paulo?,localização_obra
+que lugar é retratado na pintura?,localização_obra
+Que rio é esse?,localização_obra
+A bola branca com o corpo vermelho é um animal com rabo?,elemento_vermelho
+Essa pintura representa alguma cidade?,localização_obra
+qual o nome da obra,nome_obra
+o que significa o número à esquerda?,significado_numero
+pq a mulher tem rabo?,elemento_vermelho
+Tarsila colocou rabo na figura masculina?,elemento_vermelho
+Qual é muito feia,sem_compreensão
+Isso é,sem_compreensão
+Quem é Tarsila do Amaral,biografia_tarsila
+A pintora fez outros quadros com paisagens urbanas?,outras_obras
+Onde está o ponto de espera para o trêm ?,sem_resposta
+A pintora sempre fez obras modernistas ou começou com acadêmicas?,estilo_pintura
+Quais são as características modernistas nessa pintura?,estilo_pintura
+Há que período da historia da arte este quadro está relacionado?,estilo_pintura
+ano,data_obra
+E onde essa pintura,localização_obra
+são pessoas?,pessoas_obra
+Quem são essas duas pessoas na obra,pessoas_obra
+Porque a gente não tem pessoas pintadas aqui,pessoas_obra
+Quem são essas pessoas,pessoas_obra
+Isso é um rabo,elemento_vermelho
+Tem um rabo neste quadro,elemento_vermelho
+O que essa coisa vermelha do lado esquerdo,elemento_vermelho
+O negócio vermelho é um macaco,elemento_vermelho
+O objeto vermelho é uma bomba de gasolina,elemento_vermelho
+O negócio vermelho é uma bomba de gasolina,elemento_vermelho
+O que é a estrutura vermelha,elemento_vermelho
+O que você está estou vermelha,elemento_vermelho
+Essa pintura Tarsila do Amaral Pinto no Vale do gambá ao,localização_obra
+Qual é a motivação da pintora em pintar essa paisagem de São Paulo e o que significa e o porquê desses elementos pintados?,significado_obra
+Onde é isso?,localização_obra
+qual a mensagem da obra?,significado_obra
+o que é o número lá atrás?,significado_numero
+Quem são as pessoas na obra,pessoas_obra
+Qual a representação dos tons de azul nesta pintura?,elemento_azul
+É um bondinho isso em azul?,elemento_azul
+Tarsila do Amaral morou em São Paulo,biografia_tarsila
+Porque é que tem um coqueiro se é São Paulo e no Rio de Janeiro,elemento_árvore_fundo
+De quem são essas casas pintadas com esse quadro,sem_resposta
+essa obra é de que fase da  autora,estilo_pintura
+que número é esse aí atrás,significado_numero
+Quantos anos tinha a Tarsila quando fez esta obra?,idade_autor_obra
+O que tornou essa artista famosa?,importância_artista
+Você é Alex,outras_inteligências_artificiais
+Qual o nome dessa árvore,elemento_árvore_redonda
+Artista tem outros quadros na Pinacoteca,outras_obras
+O que é isso atrasou,sem_compreensão
+o que quer dizer 135831?,significado_numero
+Quem sao essas pessoas?,pessoas_obra
+Quais outros outros artistas serviram como inspiração pra essa obra,influências_artista
+Mas cadê o metrô,elementos_bonde
+Quem são os dois personagens retratados no quadro,pessoas_obra
+Por que essa obra faz tanto sucesso?,importância_obra
+Tarsila sempre uso óleo sobre tela,técnica_obra
+Porque tem uma bomba de gasolina no meio do parque,pessoas_obra
+Quando Tarsila pintou essa obra,data_obra
+Isso homem gato,elemento_vermelho
+Quem são essas pessoas?,pessoas_obra
+Que número,significado_numero
+Tem um ser vivo nessa obra,pessoas_obra
+Quem foi Tarsila,biografia_tarsila
+Quem foi Tarsila do Amaral,biografia_tarsila
+em que ano ela pintou?,data_obra
+por que o homem de vermelho tem um rabo?,elemento_vermelho
+Em que estação do ano quadro foi pintado,sem_resposta
+Qual estação do ano representa nesse quadro,sem_resposta
+E faça pergunta,sem_compreensão
+O que iOS,sem_compreensão
+Eu só estou,sem_compreensão
+É um gato aquilo que se parece com o poste de luz,elemento_vermelho
+Qual a especificidade de Tarsila do Amaral,estilo_pintura
+o que significa o numero?,significado_numero
+pq tantas formas geométricas?,formas_obra
+De onde é esse artista?,nascimento_autor
+É um macaco que está representado nessa pintura?,elemento_vermelho
+Quanto,sem_compreensão
+Porque eu não uso essas coisas,sem_compreensão
+Que é,sem_compreensão
+Porque tem tempo para,sem_compreensão
+Como aspiração desse acordo,inspiração_obra
+Essa foi uma das primeiras obras da Tarsila,sem_resposta
+Que lugares,sem_compreensão
+Lost?,sem_compreensão
+o metro está representado de azul?,elemento_azul
+porque o rabo?,elemento_vermelho
+Porque é um retrato,sem_compreensão
+Quem mora naquele,sem_compreensão
+Qual é a boa,sem_compreensão
+Pode,sem_compreensão
+Não sei,sem_compreensão
+Qual a região que foi retratado esse quadro,localização_obra
+Quem introduziu Tarsila do Amaral no modernismo,influências_artista
+por que a bomba de gasolina foi antropomorfizada?,formas_obra
+quando começou esse tipo de estilo no Brasil e no mundo?,sem_resposta
+quais são os quadros mais famosos desta autora?,outras_obras
+Em que ano Tarsila do Amaral nasceu,nascimento_autor
+Qual o motivo das formas estranhas?  ,formas_obra
+tem uma vagao ?,elementos_bonde
+quanto tempo este quadro demorou pra ser pintado?,duração_obra
+é uma praça?,localização_obra
+Por que o cara de vermelho tem um rabo?,elemento_vermelho
+um macaco na obra,elemento_vermelho
+Pra,sem_compreensão
+Me fale mais sobre os elementos do quadro,significado_obra
+Quem governava o Brasil quando essa obra foi feita?,presidente_época
+Quem governava o país nessa época?,presidente_época
+Qual a dimensão do quadro?,técnica_obra
+que cidade é esta?,localização_obra
+O que a artista pretendia?,significado_obra
+O que significa o número 135831 na placa?,significado_numero
+Do que se trata?,significado_obra
+essa imagem foi inspirada em alguma cidade que existe de verdade?,inspiração_obra
+Você é a Siri,outras_inteligências_artificiais
+Nessa época de 1920 como era a cidade São Paulo,obra_contexto_histórico
+Essa obra já,sem_compreensão
+Qual foi a,sem_compreensão
+Qual é o nome da,sem_compreensão
+Que tipo de música era mais tocada quando você foi pintado?,música_época
+qual movimento de arte ele representa?,estilo_pintura
+O que significa o número 135831 no quadro da Tarsila?,significado_numero
+o que essa obra mostra?,significado_obra
+Que números são esses 135831?,significado_numero
+o que representa o número 135831 no quadro?,significado_numero
+qual a técnica de pintura empregada nesta obra?,técnica_obra
+Fanta aqui no aqui,sem_compreensão
+Quatro São Paulo de teste lá da manha do Amaral ela não,sem_compreensão
+Não,sem_compreensão
+Quem era presidente do Brasil na época,presidente_época
+quais são outros quadros desta pintora?,outras_obras
+O autor é de qual nacionalidade?,nascimento_autor
+Quais outros artistas famosos foram influenciados por Tarsila do A.?,influências_artista
+Esta obra esteve na bienal,sem_resposta
+por que o coqueiro não tem forma geometrica?,sem_resposta
+O que significa palmeira no fundo,elemento_árvore_fundo
+Em que ano foi criada esta obra?,data_obra
+por que o numero 132831?,significado_numero
+por que a pessoa de vermelho tem um rabo?,elemento_vermelho
+Essa obra está vendo,valor_obra
+É o que tem aqui é um metrô é um bom dia,elementos_bonde
+Cancela do Amaral pintou a sombra observando,sem_resposta
+Tarsila do Amaral estava no validou acabou quando ela pintou essa obra,sem_resposta
+Quem mora na suas casas,sem_resposta
+o que são os personagens do primeiro plano?,pessoas_obra
+Quais são os principais artistas da semana da arte moderna?,semana_arte_moderna
+É uma obra que mistura o contemporâneo com o passado?,inspiração_obra
+o que a obra representa?,significado_obra
+Qual tipo de obras este pintor faz?,outras_obras
+Como ela foi pintada,técnica_obra
+A pintura é feita em olhem tela,técnica_obra
+Qual nome da artista,autor_obra
+Qual o nome da autora do quadro,autor_obra
+Onde foi tirada essa foto?,localização_obra
+o que significa o número no quadro?,significado_numero
+por que as pessoas parecem gatos?,elemento_vermelho
+Qual nome da autora,autor_obra
+Qual foi a grande influência que eu Tarsila do Amaral recebeu,influências_artista
+quem é Tarsila?,biografia_tarsila
+Porque,sem_compreensão
+Quanto tempo,sem_compreensão
+Pra onde leve fui,sem_compreensão
+quem é tarsila?,biografia_tarsila
+Sera que dava pra fazer miniaturas com os elementos do quadro pra brincar com a composicao?,sem_resposta
+Qual a caracteristica mais importante ? ,características_obra
+Qual é nome da obra ?,nome_obra
+É um bondinho,elementos_bonde
+Isso na imagem ao metrô,elementos_bonde
+Qual a data de criação?,data_obra
+Quanto tempo o autor levou para produzir esta obra?,duração_obra
+Me fale mais sobre Abaporu,significado_Abaporu
+O que é autor da pintura,autor_obra
+o que faz a palmeira no meio dos prédios?,elemento_árvore_fundo
+O que a Tarsila pensou sobre o futuro de suas obras antes de começar a pintar?,significado_obra
+Essa arte é moderna?,estilo_pintura
+Quem for Tarsila do Amaral,biografia_tarsila
+Qualquer o tipo de obra,estilo_pintura
+Isso é uma garrafa,elemento_azul
+O que significa o número no quadro,significado_numero
+O que significa o número,significado_numero
+O que é esse número que aparece?,significado_numero
+O que representou número a esquerda do quadro,significado_numero
+Esse quadro foi pintado com tinta óleo,técnica_obra
+Qual material usado nesta obra,técnica_obra
+De quem,autor_obra
+Fale um pouco mais sobre Tarsila do Amaral,biografia_tarsila
+Quando se passa esse quadro,data_obra
+E quando é a obra,data_obra
+Oi,sem_resposta
+Tem uma ponte,elementos_viaduto
+que cidade ela quis representar?,localização_obra
+A um bonde na obra,elementos_bonde
+Que tipo de árvore essa,elemento_árvore_redonda
+Tem um bonde na obra,elementos_bonde
+Qual a época do quadro modernismo,estilo_pintura
+Qual é o título da obra,nome_obra
+Os personagens representam o que,pessoas_obra
+Me fale sobre o pré modernismo,estilo_pintura
+que lugar a pitura representa,localização_obra
+Que cidade é essa,localização_obra
+Que lugar de São Paulo é retratada nessa cena,localização_obra
+Bom dia,sem_resposta
+Qual fundamento dessa obra,significado_obra
+Qual a história da obra,significado_obra
+O que é artista quis mostrar com isso,significado_obra
+Porque ela por essas coisas,formas_obra
+Qual nome da sua obra,nome_obra
+O que é o rabo dessa pessoa,pessoas_obra
+Que as linhas retas,formas_obra
+Correlação entre o modernismo formas geométricas,formas_obra
+O que é o elemento azul,elemento_azul
+E aí representação azul,elemento_azul
+O que essa imagem vermelha e azul na frente,elemento_vermelho
+E o que quer dizer essa figura azul,elemento_azul
+O que é essa pintura azul,elemento_azul
+O que significa objeto em azul,elemento_azul
+E o elemento e azul,elemento_azul
+O que essa garrafa azul,elemento_azul
+Porque desses números no prédio,significado_numero
+O que significa os números na obra,significado_numero
+O que representam esses números,significado_numero
+O que os números significa,significado_numero
+O que significa esta numeração na obra,significado_numero
+Números,significado_numero
+Significa o número,significado_numero
+Que quer dizer os números,significado_numero
+O que são os números,significado_numero
+Qual o sentido desse número,significado_numero
+O que é esse número na obra 13583,significado_numero
+Que número é esse no quadro,significado_numero
+O que é esse número no quadro,significado_numero
+o que é 135831?,significado_numero
+são os números de Lost?,significado_numero
+O que é o prédio que tem um número na frente,significado_numero
+O que significam os números na pintura,significado_numero
+O que são esses números na obra,significado_numero
+De quem essa obra,autor_obra
+Que parte de São Paulo é a Tarsila Amaral está me tratando,localização_obra
+Quais materiais processados pra fazer a pintura,técnica_obra
+Quais cores utilizadas na obra,cores_obra
+Quem é o autor desta obra,autor_obra
+quando ela nasceu?,biografia_tarsila
+E quem é o pinto,autor_obra
+Quais são as cores retratadas nesse quadro,cores_obra
+Quem é que está responsável pela pintura,autor_obra
+Fale um pouco sobre o autor,biografia_tarsila
+Quem pintou essa tela,autor_obra
+Quando a sua obra foi pintado,data_obra
+De que ano que é sobra,data_obra
+De que ano,data_obra
+Qual o ano São Paulo é retratado na sua obra,data_obra
+Em que época,data_obra
+O ser que parece um ser de vermelho tem um rabo,pessoas_obra
+O que você representa,significado_obra
+O que é,significado_obra
+Porque que tem um rabo,pessoas_obra
+Porque as formas geométricas,formas_obra
+Que árvore é essa que aparece no fundo da obra,elemento_árvore_redonda
+Essa essa obra retrata um local específico em São Paulo,localização_obra
+Qual estilo dessa obra,estilo_pintura
+Aquilo do lado direito é um bonde,elementos_bonde
+Esse desenho representa alguma cidade específica,localização_obra
+Qual era a revolução que acontecia no Brasil,obra_contexto_histórico
+Porque ela usa suas formas,formas_obra
+Que árvore é essa,elemento_árvore_redonda
+Que o quadro representa,significado_obra
+O que é o que são esses quadrados um do lado do outro em cima das torres,elementos_viaduto
+Aqui escola de artes pertence essa obra,estilo_pintura
+O que a obra quer expressar,significado_obra
+Que lugar de são paulo é esse?,localização_obra
+Onde fica o local da pintura,localização_obra
+O que é esse negócio azul,elemento_azul
+O que é essa figura azul,elemento_azul
+Quem é a pessoa de azul,elemento_azul
+O que seria o elemento azul uma mulher,elemento_azul
+O que representa esse número na obra,significado_numero
+O que representam aqueles números,significado_numero
+E porque desses números,significado_numero
+O que significam os números,significado_numero
+O que representa os números na obra,significado_numero
+O que são esses números,significado_numero
+O que significa o número uma quadra,significado_numero
+O que significa esse número na obra,significado_numero
+O que significa os números,significado_numero
+O que representa esses números no lado esquerdo da obra,significado_numero
+o que significam esses números?,significado_numero
+O que é aquele número 138,significado_numero
+Significa esse número,significado_numero
+O que significam esses números na,significado_numero
+Porque a numeração,significado_numero
+O que significa esses números,significado_numero
+O que é o número escrito na obra,significado_numero
+O que é esse número,significado_numero
+O que significa o número 13583,significado_numero
+O que significa número 135831 quadro,significado_numero
+O que significa o número na tela,significado_numero
+O que significa o número na frente do prédio,significado_numero
+O que representa esse numero 135831?,significado_numero
+o que significa aquele número na tela?,significado_numero
+o que sao estes numeros no quadro?,significado_numero
+Que número é o que aparece na imagem?,significado_numero
+o que significa o numero ?,significado_numero
+Que significa número 3583,significado_numero
+E o que quer dizer aquele número a esquerda,significado_numero
+Que número é,significado_numero
+O que são esses números 135831?,significado_numero
+autor,autor_obra
+quem é o autor?,autor_obra
+Quais outros atores tenho mesmo tipo de obra,influências_artista
+Qual o motivo dessas cores,cores_obra
+Fale um pouco sobre a semana de 22,semana_arte_moderna
+Que foi Tarsila do Amaral,biografia_tarsila
+Qual foi a técnica utilizada na obra,técnica_obra
+Qual que foi o intuito da Tarsila do Amaral a pintar essa obra,significado_obra
+Quem foi o autor dessa obra,autor_obra
+O que é Tarsila queria dizer com essa obra,significado_obra
+Quem foi Tarsila Amaral,biografia_tarsila
+Qual foi a técnica aplicada nesta obra,técnica_obra
+Quem fez a obra,autor_obra
+E a diversidade de cores fortes,cores_obra
+Quem autor da obra,autor_obra
+Quem é o autor dessa obra,autor_obra
+Quem fez essa obra,autor_obra
+que material foi utilizado?,técnica_obra
+Porque ela usar cores fortes,cores_obra
+Quais outras obras de Tarsila do Amaral,outras_obras
+Quem é Tarsila do Amaral,biografia_tarsila
+Quem foi Tarsila do Amaral,biografia_tarsila
+aquilo é uma fabrica?,elemento_estrutura_metal
+ela nasceu em capivari?,biografia_tarsila
+Qual a técnica usada na obra,técnica_obra
+Porque ela utilizou essas cores,cores_obra
+Qual foi a inspiração de Tarsila pra essa obra,inspiração_obra
+No que Tarsila do Amaral se inspirou para fazer esse quadro,inspiração_obra
+Quais são as cores utilizadas,cores_obra
+Porque foram usadas cores escuras,cores_obra
+Conte me sobre Tarsila do Amaral,biografia_tarsila
+Quem que fez essa pintura,autor_obra
+Quais as cores de quatro,cores_obra
+A Tarsila do Amaral nasceu em São Paulo,biografia_tarsila
+Quem pintou esse quadro,autor_obra
+Quem é o autor da obra,autor_obra
+Técnica de pintura foi usada,técnica_obra
+Qual a técnica utilizada na obra São Paulo para pintura,técnica_obra
+Que ano foi pintada esse quadro,data_obra
+Porque ele escolheu escolheu somente poucas cores para pintar o quadro,cores_obra
+Sobre o que é o quatro,significado_obra
+Qual mensagem que essa obra pretende passar,significado_obra
+Qual foi inspiração para essa obra,inspiração_obra
+O que é esse negócio com o rabo,pessoas_obra
+O que é ficar azul,elemento_azul
+Quando foi feita,data_obra
+De que ano que a obra São Paulo,data_obra
+O que essa pintura em vermelho,elemento_vermelho
+Tem um trem que que significa,elementos_bonde
+Esta é a obra São Paulo,localização_obra
+Quando foi feito a obra,data_obra
+De quando ela é,data_obra
+A pessoa de vermelho é um macaco,elemento_vermelho
+Qual região de São Paulo retratada,localização_obra
+Essa obra foi feita em que lugar de São Paulo,localização_obra
+Que lugar de São Paulo está representado na obra,localização_obra
+Qual é o movimento artístico que autora fazer a parte,estilo_pintura
+Quando foi pintada essa obra,data_obra
+Ano de criação da obra,data_obra
+Que essa garrafa do lado direito,pessoas_obra
+Porque que uma das pessoas tem um rabo,pessoas_obra
+Em que época sabe foi produzido,data_obra
+Ele é mó educado,sem_resposta
+Onde é isso,localização_obra
+Qual o nome deste quadro,nome_obra
+De que ano é a obra,data_obra
+Essas são pessoas mesmo você colocou de outra forma só mostrar aqui aparecem pessoas mas não são,pessoas_obra
+Que local de São Paulo,localização_obra
+Essa pintura representa que parte de São Paulo,localização_obra
+Porque a pessoa tem um rabo,pessoas_obra
+O que representa a figura em vermelho,elemento_vermelho
+O que significa homem de vermelho,elemento_vermelho
+O que é isso de vermelho,elemento_vermelho
+Qual a mensagem do quadro,significado_obra
+Qual o ano dessa obra,data_obra
+Em qual movimento é só pra pertence,estilo_pintura
+Que lugar de São Paulo que é,localização_obra
+Qual a data dessa obra,data_obra
+Porque essa pessoa de vermelho até o rabo,pessoas_obra
+Porque existem tantas formas nesse quadro,formas_obra
+É um trem ou é um viaduto,elementos_bonde
+O que representa essa obra qual história,significado_obra
+Que lugar é esse,localização_obra
+O que são essas pessoas no quadro,pessoas_obra
+Quando ela foi feita,data_obra
+Com a representação do trem na pintura São Paulo,elementos_bonde
+O que significa,significado_obra
+Em qual ano foi pintada,data_obra
+De quando essa obra,data_obra
+Aonde a obra foi pintada,localização_obra
+Essa obra é de algum bairro específico de São Paulo,localização_obra
+Do que se trata essa obra,significado_obra
+É um coqueiro uma palmeira,elemento_árvore_fundo
+Esses dois personagens são pessoas ou animais o de vermelho parece um gato,pessoas_obra
+É a vista para o parque ou é a vista de um parque para cidade,localização_obra
+O que representa essa obra,significado_obra
+Qual a ideia principal desta obra,significado_obra
+O que a obra ‘quer dizer’? / Qual a mensagem que a obra pretende passar?,significado_obra
+De qual movimento artístico,estilo_pintura
+Parece um homem com uma bengala ou seria um rabo,elemento_vermelho
+É porque eu quase tem muitas formas geométricas,formas_obra
+O que são as duas pessoas na frente do quadro e parece tem um rabo apesar de vermelho,pessoas_obra
+Nesse cenário representa uma paisagem brasileira,significado_obra
+Porque árvore redonda,elemento_árvore_redonda
+Porque tem um coqueiro lá no fundo,elemento_árvore_fundo
+Haha,sem_resposta
+O que significa essa figura em vermelho,elemento_vermelho
+Quem são essas pessoas no quadro,pessoas_obra
+Quem é a moça de vermelho,elemento_vermelho
+Qual contexto histórico,obra_contexto_histórico
+ela está na pinacoteca?,museu_obra
+Que ela representa,significado_obra
+Qual era o momento atual do Brasil,obra_contexto_histórico
+O que é modernismo,estilo_pintura
+Essa alma participou da Semana da arte moderna em São Paulo,semana_arte_moderna
+Que a obra representa,significado_obra
+do que trata a tela?,significado_obra
+Aonde é esse lugar,localização_obra
+Que região de São Paulo é,localização_obra
+O que essa palmeira,elemento_árvore_fundo
+Uma pessoa com rabo,pessoas_obra
+Que é na rua a obra representa,significado_obra
+Porque você tem um rabo,pessoas_obra
+Porque só temos duas pessoas na foto,pessoas_obra
+Que região essa,localização_obra
+O que são essas coisas cumpridas são pessoas,pessoas_obra
+E tem um trem na fila na imagem,elementos_bonde
+Porque tantas formas na imagem,formas_obra
+O que é sobra,significado_obra
+Porque que a cidade lá traz o plano azul mais azul no fundo parece um caminhão transporte,elementos_bonde
+Que não é esse na na pintura,sem_compreensão
+Onde tem levar pra pra pra São Paulo,sem_compreensão
+Esse desenho de um carrinho ele parece um trem é isso,elementos_bonde
+Eu quero saber que lugar de São Paulo é isso,localização_obra
+Qual o nome dessa obra,nome_obra
+Essa pessoa tem um rabo,pessoas_obra
+Tem um gato nesse quadro,pessoas_obra
+Qual a ideia principal desse quadro?,significado_obra
+Porque aquele negócio tem rabo,pessoas_obra
+O elemento do lado direito é um bonde outrem,elementos_bonde
+O que significa esta obra,significado_obra
+O QUE A OBRA REPRESENTA?,significado_obra
+Essa obra faz referência com movimento artístico,estilo_pintura
+Em qual localização foi feito,localização_obra
+Essa obra faz parte do modernismo,estilo_pintura
+Que você representa,significado_obra
+O que significa essa obra,significado_obra
+Que Rio é esse que aparece na obra,localização_obra
+Que local é esse,localização_obra
+O significado da sogra,significado_obra
+O que essa obra significa,significado_obra
+Que lugar de São Paulo,localização_obra
+Que lugar está representado nesta quarta,localização_obra
+O que motivou a pintura desta obra?,significado_obra
+o que ela quis retratar com esta obra?,significado_obra
+Porque autor escolheu essas coisas,formas_obra
+Que tipo de técnica foi utilizado essa pintura,estilo_pintura
+O que essa obra representa,significado_obra
+O que quer dizer,significado_obra
+Pessoas que estão no,pessoas_obra
+Qual o significado,significado_obra
+Que ponte essa,elementos_viaduto
+Que representa essa obra,significado_obra
+iOS no meio da obra,pessoas_obra
+Sobre o que a obra,significado_obra
+Qual o nome do riacho,elementos_rio
+Tem um rio em baixo da ponte,elementos_rio
+O que é obra de São Paulo,significado_obra
+O que significa sobra,significado_obra
+Aqui no fundo é um trem,elementos_bonde
+Qual é porque esse quadro retrata,significado_obra
+Isso é uma ponte,elementos_viaduto
+Qual é o nome dessa obra,nome_obra
+Que essa estrutura com duas colunas no meio da obra,elementos_viaduto
+O que que essa estrutura no meio da obra,elementos_viaduto
+Quem são essas duas pessoas que estão,pessoas_obra
+Para onde o bom de estar indo,destino_bonde
+como tava o tempo nesse dia?,clima_obra
+tava quente?,clima_obra
+fazia sol nesse dia?,clima_obra
+dia estava bom ?,clima_obra
+estava quente nesse dia?,clima_obra
+Tava sol?,clima_obra
+Como estava o tempo nesse dia?,clima_obra
+por quanto tempo Tarsila viveu?,morte_autor
+até que ano a autora viveu?,morte_autor
+até quando Tarsila viveu?,morte_autor
+quando Tarsila morreu?,morte_autor
+quando ela faleceu?,morte_autor
+Tarsila viveu até quando?,morte_autor
+até quando ela viveu?,morte_autor
+A autora viveu até quando?,morte_autor
+qual o nome da obra??,nome_obra
+isso é um trem?,elementos_bonde
+Obrigada estou satisfeito,sem_resposta
+Essas figuras que tem na pintura são pessoas,pessoas_obra
+A artista foi casada?,casamento_artista
+Tarsila se casou?,casamento_artista
+Quem foi marido da artista,casamento_artista
+Tarsila era casada?,casamento_artista
+pra que os edifícios?,elemento_edifício
+por que dos edifícios?,elemento_edifício
+o que ela quiz dizer com os edifícios?,elemento_edifício
+o que são esses edifícios ?,elemento_edifício
+qual a idade da autora nessa época?,idade_autor_obra
+qual era a idade da autora quando pintou isso?,idade_autor_obra
+qual era a idade da autora quando pintou a obra?,idade_autor_obra
+quem foi os mentores de Tarsila?,mentor_artista
+com quem Tarsila aprendeu a pintar?,mentor_artista
+onde esta obra está?,museu_obra
+para quem tarsila fez o abaporu?,significado_Abaporu
+A pessoa da esquerda tem um rabo o que significa isso,pessoas_obra
+Que bicho é esse de camiseta vermelha,pessoas_obra
+O que é o que essa coisa com o rabo,pessoas_obra
+outros quadros dela que tem relação com São Paulo?,quadros_relacionados
+quais são os outros quadros da autora com relacionados a cidade de São Paulo?,quadros_relacionados
+ Quais outros trabalhos com caracaterísticas semelhantes da autora?,quadros_relacionados
+onde estão as sombras?,sombras_obra
+ela não gosta de pintar sombras?,sombras_obra
+"não estou vendo sombras nessa obra, por que?",sombras_obra
+por que não tem sombra?,sombras_obra
+Onde estão as sombras da obra?,sombras_obra
+quem governava o país nessa época?,presidente_época
+O que inspirou Tarsila de Amaral atentar São Paulo,elemento_estrutura_metal
+ela participou da semana de arte moderna?,semana_arte_moderna
+Se a São Paulo cadê as pessoas,pessoas_obra
+a autora tinha alguma fé?,religiao_artista
+quando ela morreu?,morte_autor
+outros quadros da artista relacionados?,quadros_relacionados
+quadros relacionados?,quadros_relacionados
+quais são outros quadros relacionados com esta obra?,quadros_relacionados
+quais quadros tem relação com esta obra?,quadros_relacionados
+São pessoas em um poste de luz,pessoas_obra
+quem participou da semana de arte moderna?,semana_arte_moderna
+Ata,sem_compreensão
+Nem,sem_compreensão
+O que é esse,sem_compreensão
+O que significa sal,sem_compreensão
+Para,sem_compreensão
+Porque ela quer saber,sem_compreensão
+Que representa esta obra matasse,sem_compreensão
+Quem é,sem_compreensão
+Quem que fez essa,sem_compreensão
+Sobre,sem_compreensão
+Vai,sem_compreensão
+Tarsila morava em São Paulo?,moradia_autor
+a autora morava nessa cidade?,moradia_autor
+onde a autora morava?,moradia_autor
+em qual cidade a autora viveu?,moradia_autor
+Tarsila morava onde?,moradia_autor
+onde a autora viveu?,moradia_autor
+onde a Tarsila morou?,moradia_autor
+onde ficava a casa de Tarsila?,moradia_autor
+qual era a religião da artista?,religiao_artista
+quais prêmios você ganhou?,premio_obra
+eu tô falando com a Siri?,outras_inteligências_artificiais
+a artista era espírita?,religiao_artista
+a autora não gosta de sombras?,sombras_obra
+pra que lugar tá indo o bonde?,destino_bonde
+esse bonde vai pra onde?,destino_bonde
+qual o destino do trem?,destino_bonde
+qual o significado do abapuru?,significado_Abaporu
+onde está o abapuru?,significado_Abaporu
+quem pintou o abapuru?,significado_Abaporu
+abapuru,significado_Abaporu
+foi Tarsila que pintou o abapuru?,significado_Abaporu
+qual a importancia do abapuru?,significado_Abaporu
+foi a Tarsila quem pintou o abapuru?,significado_Abaporu
+esse quadro é o abapuru?,significado_Abaporu
+qual a relação da pintura com o Abapuru?,significado_Abaporu
+foi ela quem pintou o abapuru?,significado_Abaporu
+qual a música que se tocava nessa época?,música_época
+que música era popular nessa época?,música_época
+o que tocava nesta época?,música_época
+que tipo de música tocava nessa época?,música_época
+você ganhou algum prêmio?,premio_obra
+Qual era a religião de Tarsila?,religiao_artista
+qual museu que está esta obra?,museu_obra
+Tarsila se casou alguma vez?,casamento_artista
+Tarsila era solteira?,casamento_artista
+Tarisla se casou?,casamento_artista
+quantas vezes ela se casou?,casamento_artista
+ela foi casada?,casamento_artista
+Quantos maridos ela teve?,casamento_artista
+com quem Tarsila era casada?,casamento_artista
+Quantas vezes Tarsila se casou,casamento_artista
+com quem Tarsila aprendeu?,mentor_artista
+quem te mentorizou?,mentor_artista
+quem foram seus professores?,mentor_artista
+com quem que ela aprendeu?,mentor_artista
+quem foram os mentores dela?,mentor_artista
+ela viveu em barcelona?,moradia_autor
+ela morou em barcelona?,moradia_autor
+ela viveu na espanha?,moradia_autor
+ela morou na espanha?,moradia_autor
+ela morou na frança?,moradia_autor
+em que museu que está?,museu_obra
+qual a fé da autora?,religiao_artista
+a autora frequenta igreja?,religiao_artista
+a autora é católica?,religiao_artista
+a autora era católica?,religiao_artista
+Porque é uma das pessoas tem um rabo,elemento_vermelho
+quem era o presidente na época deste quadro?,presidente_época
+O que é objeto azul,elemento_azul
+O que são esses números os números,significado_numero
+qual a obra mais importante da autora?,obra_famosa
+qual principal obra dela?,obra_famosa
+qual principal obra da Tarsila?,obra_famosa
+obra mais famosa dela?,obra_famosa
+qual era a obra mais famosa dela?,obra_famosa
+que prêmios você já ganhou?,premio_obra
+teve algum prêmio para esta obra?,premio_obra
+esta obra recebeu algum prêmio?,premio_obra
+esta obra ganhou algum prêmio?,premio_obra
+eu tô falando com a Cortana?,outras_inteligências_artificiais
+você é o Watson?,outras_inteligências_artificiais
+a autora participou da semana de arte moderna?,semana_arte_moderna
+quem era o presidente do brasil nessa época?,presidente_época
+quem era o presidente nessa época?,presidente_época
+este estlo de pintura não tem sombras?,sombras_obra
+você é a Cortana?,outras_inteligências_artificiais
+Ata fila fila tão,sem_compreensão
+Atasse ela foi rica,sem_compreensão
+Essa parte bege areia,sem_compreensão
+O carro,sem_compreensão
+O significa,sem_compreensão
+Onde essa pintura já foi resposta,sem_compreensão
+Quando foi não,sem_compreensão
+Que Palmeiras,sem_compreensão
+Que putinhas,sem_compreensão
+Tem areia desse quadro,sem_compreensão
+você é a cortana?,outras_inteligências_artificiais
+cadê as sombras?,sombras_obra
+qual a religião da Tarsila?,religiao_artista
+o que foi o abapuru?,significado_Abaporu
+Qual o significado da obra Abaporu?,significado_Abaporu
+quem tava na semana de arte moderna?,semana_arte_moderna
+tarsila era evangélica?,religiao_artista
+tarsila era espírita?,religiao_artista
+Tarsila era católica?,religiao_artista
+ela era crente?,religiao_artista
+ela era evangélica?,religiao_artista
+ela era católica?,religiao_artista
+que igreja frequentava?,religiao_artista
+qual sua religião?,religiao_artista
+Isso é um gato esquerda,elemento_vermelho
+Esse é o macaco,elemento_vermelho
+Porque tantas formas no quadro,formas_obra
+Qual é a sua cidade,localização_obra
+Uma garrafa azul,elemento_azul
+Esse número,significado_numero
+O que significa o elemento com rabo,elemento_vermelho
+Pessoa com rabo passar,elemento_vermelho
+Quem é Tarsila do Amaral,biografia_tarsila
+Isso é um trem o bonde,elementos_bonde
+Aquilo é uma palmeira,elemento_árvore_fundo
+Aquilo azul é um lago,elementos_rio
+Porque a obra não tem nenhuma pessoa,pessoas_obra
+Quais são os outros elementos do quadro além da pessoa e do trem,pessoas_obra
+O que é largura com raiva,sem_compreensão
+Porque tem muitas lá no fundo,sem_compreensão
+Mas é uma estação,elementos_bonde
+Porque eu não fundo do quadro tem um painel azul,sem_compreensão
+E quando ele fez o seu sobra,data_obra
+Porque tem uma bananeira no meio do quadro,elemento_árvore_fundo
+Nesse quadro em algum lugar com água,elementos_rio
+Porque tem água no meio das coisas verdes,elementos_rio
+Porque tem um coqueiro em cima do trilho do trem,elemento_árvore_fundo
+É uma novena,sem_compreensão
+Isso é um play um bom dia,sem_compreensão
+Cidade é essa,localização_obra
+No fundo do quadro um roqueiro,elemento_árvore_fundo
+Tem gente morando na casa,sem_resposta
+Porque o prédio não tem porta,sem_resposta
+Quem foi pra cima do Amaral,biografia_tarsila
+Quantos anos teria Tarsila do Amaral se ainda estivesse viva,nascimento_autor
+Tarsila teve um relacionamento com Oswald de Andrade?,casamento_artista
+Quais os maridos de tarsila?,casamento_artista
+Gostaria de saber um pouco mais sobre a altura Tarsila do Amaral,sem_resposta
+Que a Tarsila que se apresentar na sala,sem_compreensão
+Tarsila tem algum quadro muito famoso?,obra_famosa
+Qual contexto que aconteceu,obra_contexto_histórico
+qual a idade dela quando fez São Paulo?,idade_autor_obra
+quantos anos tinha quando criou a obra?,idade_autor_obra
+qual a idade dela quando criou este quadro?,idade_autor_obra
+O que representa as árvores espessadas marque,sem_compreensão
+Porque eu só árvore ela está em destaque em tamanho maior em relação desenho,sem_compreensão
+Porque o autor tentou árvore redondo,sem_compreensão
+Me fale um pouco mais sobre a sogra,significado_obra
+Fale sobre a sogra,significado_obra
+qual foi a primeira semana de arte moderna?,semana_arte_moderna
+Essa obra pertence a semana da arte moderna,semana_arte_moderna
+E esse quadro que quadris,sem_compreensão
+Marcelo Amaral ela,sem_compreensão
+Essa,sem_compreensão
+Ela se casou?,casamento_artista
+Tem um rio nesse quadro,elementos_rio
+Existe um rio representado na obra,elementos_rio
+A um rio também no quadro,elementos_rio
+qual a relação entre ele e Estrada de Ferro Central do Brasil?,sem_resposta
+ela fez algum quadro para Oswald de Andrade?,sem_resposta
+Quem detém os direitos autorais essa obra,sem_resposta
+Qual nome do autor da obra,autor_obra
+O que fabrica dizer,elemento_estrutura_metal
+é um coqueiro?,elemento_árvore_fundo
+ela viveu na europa?,moradia_autor
+ela viveu fora do país?,moradia_autor
+ela viveu fora do brasil?,moradia_autor
+em quais cidades viveu?,moradia_autor
+O que é que mesmo mesmo,sem_compreensão
+tarsila teve muitos mentores?,influências_artista
+quem foram os professores de tarsila?,influências_artista
+Nessa época o céu já era punido por isso ele aparece como assim viu,sem_compreensão
+E com a época,sem_compreensão
+Quantos anos tens qualquer,sem_compreensão
+tarsila vive?,morte_autor
+Nessa época o céu já poluído,sem_resposta
+era meio dia?,clima_obra
+era de dia?,clima_obra
+Porque tem muitos prédios nessa obra,elemento_edifício
+Porque tem muitas muitos prédios na sua obra,elemento_edifício
+ela está morta?,morte_autor
+Porque ele foi feito,significado_obra
+O que representam esses dois personagens?,pessoas_obra
+Quem morava nesses prédios,morador_prédios
+Quem mora nesses prédios,morador_prédios
+quem mora nos prédios?,morador_prédios
+Situasse ele queria falar sobre a modernidade em São Paulo porque ela não pintou nenhum carro,elementos_bonde
+Porque eu não retratou carros,elementos_bonde
+Comprar material utilizado,sem_compreensão
+em quais cidades morou?,moradia_autor
+ela morou em paris?,moradia_autor
+É um guindaste no fundo,elementos_viaduto
+É o mar que está pintado no fundo do quadro,elementos_rio
+Me fale mais sobre Tarsila do Amaral,biografia_tarsila
+Ahã que referência aqueles números,significado_numero
+O que é isso em cima dessas torres,sem_resposta
+Aqui no fundo é um bom dia,sem_compreensão
+Porque ela não retratou céu de forma original,sem_resposta
+A pintura ajudou amenizar a sua dor,sem_resposta
+Essa imagem retrata capivarí ou válido ainda Bao,inspiração_obra
+Qual a intenção dela e pintar capivarí,inspiração_obra
+O pote azul está aceso,sem_compreensão
+O posto está acesa,sem_compreensão
+É um rio em baixo da ponte,elementos_rio
+Que Rio é esse,elementos_rio
+Que rio é esse,elementos_rio
+que rio é aquele?,elementos_rio
+ela teve algum mentor ou mentora?,mentor_artista
+Que tem no horizonte,sem_resposta
+Porque tem uma bunda no meio do quadro,sem_resposta
+O que tem dentro daquele trem,sem_resposta
+Porque não tem ninguém passando no centro,sem_resposta
+Porque a palmeira maior que o prédio,elemento_árvore_fundo
+é uma palmeira?,elemento_árvore_fundo
+quem foram seus mentores?,influências_artista
+por que não tem sombras?,sombras_obra
+esse quadro não tem sombras?,sombras_obra
+ela não pintou sombras?,sombras_obra
+Cadê a sombra do quadro,sombras_obra
+O que é isso,inspiração_obra
+Qual região de São Paulo esse quadro representa,inspiração_obra
+Que tem uma palmeira e o Mário Pereira quatro,sem_compreensão
+ela nasceu em que cidade?,nascimento_autor
+em que ano nasceu?,nascimento_autor
+quando nasceu?,nascimento_autor
+Que elementos estão presentes na obra,importância_obra
+Quais elementos estão presentes na obra,importância_obra
+ela está viva?,morte_autor
+ela ainda está viva?,morte_autor
+Aonde foi pintada obra,inspiração_obra
+Aonde foi pintada esse quadro,inspiração_obra
+O Anhangabaú,sem_compreensão
+Porque é única roqueiro,sem_compreensão
+Em que ano o pintor morreu,morte_autor
+em que dia ela morreu?,morte_autor
+como ela morreu?,morte_autor
+ela já morreu?,morte_autor
+quando foi a primeira semana de arte moderna?,semana_arte_moderna
+Porque a árvore é tão redonda,elemento_árvore_redonda
+E a rua do segundo plano que significa,sem_resposta
+Que mora nesse prédio,morador_prédios
+O que são os,sem_compreensão
+O que representa celular,sem_compreensão
+Quanto por quanto governo do estado de São Paulo essa pintura,sem_compreensão
+Qual foi o impacto causado por esta obra no momento de lançamento,importância_obra
+Que paisagem está descrito nesta obra,inspiração_obra
+Que paisagem está destacado nesta obra,inspiração_obra
+Desde quando essa obra faz parte da coleção da Pinacoteca,sem_resposta
+O que estava sentindo quando pinta só que eu não,sem_resposta
+O que significa 13583,significado_numero
+O que significa 13583,significado_numero
+13583,significado_numero
+O que significa a figura vermelha,elemento_vermelho
+O que é o vale do ai hangar Bao,sem_compreensão
+Mas não vale do Alberto é H Bao tem um rio,sem_compreensão
+O que é o válido ainda Bao,sem_compreensão
+Que você está aqui a pintura representa,sem_compreensão
+E o porque tanta pintura,sem_compreensão
+Eu queria saber o que você quis dizer com essas,sem_compreensão
+Porque as cabeças são pequenas,pessoas_obra
+É tudo bem colorido,cores_obra
+Porque você é tão colorido quadro,cores_obra
+Porque o quadro é tão colorido,cores_obra
+Porque o quadro tão colorido,cores_obra
+Qual bairro de atrás,inspiração_obra
+O que é na sogra foi criada,sem_compreensão
+Quantos anos tem esse quadro,data_obra
+De que ano é o cara,data_obra
+O que significa 13583,significado_numero
+Tem uma fábrica aí,elemento_estrutura_metal
+Tem uma fábrica,elemento_estrutura_metal
+Tem alguma fábrica nos quadra,elemento_estrutura_metal
+Qualquer atitude usada para pintura da escola,sem_compreensão
+Era uma de frente pra mim,sem_compreensão
+Porque não tem ninguém na rua,sem_resposta
+Em cima do prédio que tem número é uma antena,elemento_estrutura_metal
+O que é falso números,sem_compreensão
+Vou pra São Paulo números 13,sem_compreensão
+Parece um pino de boliche,elemento_azul
+Quem é o artista da sogra,autor_obra
+O que é artista representou na sala,autor_obra
+Qual nome desse artista,autor_obra
+Qual é artista da sobra,autor_obra
+Porque é artista escolher essas coisas,formas_obra
+Quem pesa sobre,sem_compreensão
+onde essa pintura está?,localização_obra
+O que significa o prédio grande,elemento_edifício
+E o prédio grande,elemento_edifício
+Em cima do prédio é uma turma antena,elemento_estrutura_metal
+O que é isso verde em cima do prédio,elemento_estrutura_metal
+Porque só tem cinco prédios,elemento_edifício
+Mas São Paulo não tem tanto prédio,elemento_edifício
+O que é o prédio Azul,elemento_edifício
+Que viaduto aí sim,elementos_viaduto
+Qual é meu que a obra,sem_compreensão
+Comprar material usado nome,sem_compreensão
+Porque o céu tem duas cores,sem_resposta
+Porque eu só tenho duas cores de azul,sem_resposta
+Em cima do prédio tem uma cena,sem_compreensão
+O prédio Azul,sem_compreensão
+Porque que pessoas que tem aquele prédio,sem_compreensão
+Esse é um prédio,sem_compreensão
+São prédios comerciais ou residenciais,sem_resposta
+Quantos andares tem esse prédio,sem_resposta
+E as protetora representada é uma ponte aí no meio,sem_compreensão
+Isso aí ensinar uma ponte,sem_compreensão
+Quais tipos de aves estão representados,sem_resposta
+O que é o retângulo azul,sem_resposta
+O que é o azul escuro no fundo,clima_obra
+Pra onde eu levo rio,sem_resposta
+estava sol?,clima_obra
+estava calor?,clima_obra
+Onde se quadrilha foi exposto,sem_resposta
+O bonde ainda existe,sem_resposta
+quais outros quadros tem relação com este?,outras_obras
+o que era fabricado ali?,elemento_estrutura_metal
+aquilo é uma antena,elemento_estrutura_metal
+Porque ela usa vinha,sem_compreensão
+Eu estou na frente da obra São Paulo da sala Amaral,sem_compreensão
+Porque está,sem_compreensão
+Qual outra obra da pintura representa um cenário paulista,sem_resposta
+Quanto custou a compra desse quadro,valor_obra
+Pode repetir a última informação favor,sem_compreensão
+quais as obras mais famosas que ela fez?,obra_famosa
+É uma,sem_compreensão
+qual sua obra mais conhecida?,obra_famosa
+o sol brilhava?,clima_obra
+O que mais está representado na tela tela,significado_obra
+Porque tem muito verde na sua obra,cores_obra
+Porque desses desse verde tudo no quadro,cores_obra
+Cores verde quatro São Paulo o que significa,cores_obra
+esse rio ainda existe?,elementos_rio
+Qual estação do,sem_compreensão
+Estou aqui,sem_compreensão
+Não reconhece a com a,sem_compreensão
+O que,sem_compreensão
+Então essa tela,sem_compreensão
+Bom dia em que ano passei o Tarsila do Amaral,sem_compreensão
+Quer salvar a obra representa,sem_compreensão
+O que vale,sem_compreensão
+A pergunta que eu havia feito eu vou repetir,sem_compreensão
+Estava pertence ao movimento,sem_compreensão
+O que é que eu tenho com a Bia que eu não,sem_compreensão
+Nas sua imagem tem alguma Putiu,sem_compreensão
+Porque que essa,sem_compreensão
+existem outras obras relacionadas a esta?,outras_obras
+Porque salubre redonda,sem_compreensão
+Está ao lado do bonde,sem_compreensão
+Existem outras obras vacilando Amaral expor é a exposição na na proteica,sem_compreensão
+Qual o significado do número no quadro,significado_numero
+Nessa gravura é uma pessoa ou são duas pessoas,pessoas_obra
+Elementos que tem na tela,características_obra
+Como é o nome desse quadro,nome_obra
+Monte de números,significado_numero
+Porque tem muitos números,significado_numero
+E o que são esses números,significado_numero
+O que é aquele objeto azul na frente,elemento_azul
+Quem foi Tarsila do Amaral,biografia_tarsila
+E o que é aquele prédio mais alto da tela,elemento_edifício
+Esse prédio mais alto,elemento_edifício
+O que é modernidade,estilo_pintura
+é noite?,clima_obra
+O que são essas torres?,elementos_viaduto
+Porque tem aqueles números,significado_numero
+o que é esse macaco?,pessoas_obra
+É um gato que está vestido de vermelho,elemento_vermelho
+Tem pessoas nesse quadro,pessoas_obra
+O que essa pessoa tem o rabo,elemento_vermelho
+Porque tem uma figura com o rabo desse quadro,elemento_vermelho
+Quem pintou esse quadro,autor_obra
+o que é aquela estrutura metálica em cima do prédio?,elemento_estrutura_metal
+O que são esses postes pretas,elementos_viaduto
+Que prédio alto é esse,elemento_edifício
+O que não caminhando outrem,sem_compreensão
+Sobre você está em que ano,sem_compreensão
+Quem é o outro que é o pintor das pinturas,sem_compreensão
+É o sócio do iPhone é só,sem_compreensão
+muito legal,sem_compreensão
+Porque São Paulo,significado_obra
+Porque bananas,sem_compreensão
+Porque você fez essa obra,significado_obra
+Qual nome desse rio,elementos_rio
+por que essa pessoa tem rabo?,elemento_vermelho
+Quem criou essa pintura,autor_obra
+Qual o contexto histórico,obra_contexto_histórico
+O que é que aquele elemento vermelho que parece um ser humano com o rabo,elemento_vermelho
+Aquilo para um bom de um trem um carro que que é isso,elementos_bonde
+Que ponte é isso,elementos_viaduto
+Uma pergunta,sem_compreensão
+E a palmeira lá no Orlando é um homem,sem_compreensão
+É verdade que eu falei está no meu processo aqui eu aceito aqui vou fazer o seguinte,sem_compreensão
+E o que esses números representam,significado_numero
+A quanto tempo você está no museu,sem_resposta
+O que significa numeração a esquerda,significado_numero
+Porque a pessoa já vão tem um pescoço tão grande,pessoas_obra
+Qual cidade,localização_obra
+Que quadra é esse,nome_obra
+E o que é o ser humano vestido de vermelho com rabo,pessoas_obra
+A obra mostra São Paulo em que época,data_obra
+O que são os números,significado_numero
+O que que os números na obra represento,significado_numero
+É uma ponte sobre as duas Torres,elementos_viaduto
+Do lado direito é um vagão de trem,elementos_bonde
+A obra retrata São Paulo que época,data_obra
+Quais são os outros pintores modernistas do Brasil,semana_arte_moderna
+A figura de vermelho é um gato,elemento_vermelho
+O que são essas duas pessoas na obra pra Tarsila do Amaral,pessoas_obra
+Mas qual o nome do rio,elementos_rio
+A figura de vermelho é um homem,elemento_vermelho
+por que o céu da tarcila é azul ,clima_obra
+Atasse light Amaral,sem_compreensão
+Porque o outro não,sem_compreensão
+Natividade e aí depois,sem_compreensão
+O que significa essa modernidade e chegou a São Paulo,significado_obra
+Que outros quadros ela pintou,quadros_relacionados
+Porque ela escolheu essas cores,cores_obra
+E qual estilo próprio,estilo_pintura
+é um pino de boliche?,elemento_azul
+Ao centro é uma ponte com o vagão do trem,elementos_bonde
+Qual é o estilo da obra,estilo_pintura
+Porque é uma das pessoas tem um rabo como macaco,elemento_vermelho
+Tem um trem desenhado na tela,elementos_bonde
+O que representa essas duas bolas brancas no meio da da obra,pessoas_obra
+Qual a cidade que foi feito,localização_obra
+O que que aquela figura que aparece o ser humano vestido de vermelho e um rabo pendurado,elemento_vermelho
+Qual o significado da figura azul,elemento_azul
+Tem alguma passou aí que mora aí eu não,pessoas_obra
+Imagina no quadro só pessoas,pessoas_obra
+E os números que aparecem no quatro 135 831 OK que eles significam,significado_numero
+Pra onde o bom de estar indo,destino_bonde
+Aquele que tem vermelho da tela é um gato,elemento_vermelho
+Porque a árvore arredondar,elemento_árvore_redonda
+Porque você fez isso ecoada tenho que esperar,sem_compreensão
+Porque tudo é dia de trampo colar o qual cada um por ser lá,sem_compreensão
+Aqui não tem,sem_compreensão
+Porque o quadro só tem uma árvore eu quero pegar ela e eu quero pegar ela fazer você me pega,sem_compreensão
+O que é,sem_compreensão
+Qual é a localidade produzida na hora,inspiração_obra
+Porque o tecido é pensou em fazer uma obra dessa,inspiração_obra
+Me descreva mais sobre essa obra,significado_obra
+Qual o contexto histórico dessa obra,obra_contexto_histórico
+Tem uma palmeira no quadro,elemento_árvore_fundo
+O que ela quis representar uma sobra,significado_obra
+Porque artista pintor esse lugar,inspiração_obra
+De quando essa obra,data_obra
+O que são os números na obra,significado_numero
+Segura em primeiro plano é um gato,elemento_vermelho
+Isso é um bonde,elementos_bonde
+Aquilo mesmo padrão rio,sem_compreensão
+O que são o que esse quadro,sem_compreensão
+Mas eles estão,sem_compreensão
+Escola de artes inglês e 4/5 pega,sem_compreensão
+Quando,sem_compreensão
+O que esse menino está fazendo no quadro,pessoas_obra
+Descreva esta obra pra mim,significado_obra
+Do que eu sou uma pintura se trata,significado_obra
+A coisa sou do lado da pessoa é um post ou uma pessoa,pessoas_obra
+Quem fez essa,autor_obra
+Tem um trem na pintura,elementos_bonde
+é no rio de janeiro?,localização_obra
+Porque é bom esse quadro é geométrico,formas_obra
+Qual é o contexto histórico da obra,obra_contexto_histórico
+Tem essas número,significado_numero
+Quantos anos ela pintou esse quadro,idade_autor_obra
+Você é uma ponte,elementos_viaduto
+Quem fez essa obra,autor_obra
+ Que o contexto histórico dessa obra?,obra_contexto_histórico
+Tarsila do Amaral,biografia_tarsila
+Quando foi feita essa obra,data_obra
+Porque que você fez na na obra,significado_obra
+O que representa esse boneco azul,elemento_azul
+Essa é feita,sem_compreensão
+Te amo você foi criado,sem_compreensão
+Porque é um monte de errado,sem_compreensão
+Tem um ralo,sem_compreensão
+Porque o quadro só tem uma árvore e mais nada de verde,sem_resposta
+Aqueles números,significado_numero
+Que que são esses números no pretinho,significado_numero
+Quem pintou seu quarto,autor_obra
+Porque só tem figuras geométricas no quadro,formas_obra
+Pouco sobre a vida pessoal da parcela do Amaral,biografia_tarsila
+Quando que essa obra foi mostrar ao público,premio_obra
+Que a sogra tem haver com São Paulo,significado_obra
+Mas porque tem um coqueiro ali,elemento_árvore_fundo
+Porque tem coqueiro no meio dos prédios,elemento_árvore_fundo
+Porque aquele retângulo azul com dois tons de azul no centro da tela,elemento_azul
+O que é aquela coisa com rodas,elementos_bonde
+É uma estação de trem,elementos_bonde
+E que árvore é essa que está pintada na tela,elemento_árvore_redonda
+Duas guria que eu vou te,sem_compreensão
+Porque a Copa porque arde uma com a redonda,sem_compreensão
+Aquela bomba de gasolina para o gato não é um gato,sem_compreensão
+Qual o que é que você com o seu número,significado_numero
+Esses personagens são pessoas um gato,pessoas_obra
+Isso é um posto de gasolina,inspiração_obra
+Número,significado_numero
+Porque tem uma pessoa com rabo,elemento_vermelho
+Qual a técnica usada para pintar o quadro,técnica_obra
+Em que época a Tarsila pintou esse quadro,data_obra
+O que que aquela figura que para o ser humano vestido de vermelho com o rabo,elemento_vermelho
+Tem um trem nessa pintura,elementos_bonde
+Onde está o menino,pessoas_obra
+O que aquela parte azul.do com a Roda branca em cima,elemento_azul
+Porque é um artista soltando as cores na obra,cores_obra
+O que é esse número no quadro,significado_numero
+O que são esses números do prédio,significado_numero
+O que são esses números no quadro,significado_numero
+Que parte de São Paulo essa,localização_obra
+Que lugar de São Paulo é isso,localização_obra
+Quais foram as formas usadas nessa hora,formas_obra
+Essa obra retrata seres humanos não humanos,pessoas_obra
+O que significa esse número,significado_numero
+O que significa os números 3h58 31,significado_numero
+Que cidade é essa,localização_obra
+O que são esses números,significado_numero
+O ano da sua obra,data_obra
+O que são esses números esquerdo quadro,significado_numero
+O que o número está representando,significado_numero
+O que significa os números na obra,significado_numero
+Em que ano foi feito,data_obra
+O que você representa,significado_obra
+Tem um rio nessa pintura,elementos_rio
+As cores dessa obra tem algum significado,cores_obra
+Que região de São Paulo está retratado na outra,localização_obra
+Qual é o estilo dessa obra,estilo_pintura
+Quem morava nesses prédios,morador_prédios
+O que são esses números,significado_numero
+O que essa obra representa,significado_obra
+Quem são os prédios,elemento_edifício
+E o que significa esta palmeira vídeo no fundo,elemento_árvore_fundo
+O que significa os números na sala os números nessa obra,significado_numero
+O que é isso gato com o rabo,elemento_vermelho
+Que você pode me dizer sobre essa obra,significado_obra
+Qual estilo dessa tela,estilo_pintura
+O que são os números,significado_numero
+O que representa a figura vermelha que tem um rabo de gato,elemento_vermelho
+São prédios no centro da cidade,elemento_edifício
+O que são os números na obra,significado_numero
+De quem é a hora,autor_obra
+De quem é esta obra,autor_obra
+Me conta sobre a obra São Paulo,significado_obra
+Quando foi pintada essa obra,data_obra
+Porque tem um coqueiro no meio da tela,elemento_árvore_fundo
+O que é aquela figura azul no quadro,elemento_azul
+Tem uma bomba de gasolina no quadro,pessoas_obra
+Conte um pouquinho sobre Tarsila do Amaral,biografia_tarsila
+O que é o número,significado_numero
+O que são os números do lado esquerdo quadro,significado_numero
+Essas pessoas representam um homem uma mulher,pessoas_obra
+O que que são as estruturas de primeiro plano na obra,pessoas_obra
+E fale me sobre obra,significado_obra
+Mas o que motivou o artista,significado_obra
+O que significa,significado_obra
+O significado dessa obra,significado_obra
+Que ela expressa,significado_obra
+Esse quadro de que parte da cidade,localização_obra
+Que lugar é este,localização_obra
+Quem fez você,autor_obra
+Objetivo da sala,sem_resposta
+Aparece um bonde no quadro,elementos_bonde
+Porque tem um coqueiro na obra,elemento_árvore_fundo
+Essa árvore é especial,elemento_árvore_redonda
+Preço,valor_obra
+E no fundo do quadro é um coqueiro,elemento_árvore_fundo
+Que número é esse lá no fundo,significado_numero
+Pessoal esses números,significado_numero
+O que significa os números no canto esquerdo da tela,significado_numero
+Quem pintou este quadro,autor_obra
+Como foi a vida de Tarsila do Amaral,biografia_tarsila
+Qual é o rio representar,elementos_rio
+O que é este objeto azul em forma de garrafa,elemento_azul
+Quem são os contemporâneos da Tarsila do Amaral modernismo,influências_artista
+Existe um trem o quadro,elementos_bonde
+O que é esse número,significado_numero
+O que são esses números no lado esquerdo,significado_numero
+O que que são os números da obra,significado_numero
+O que representa esses números,significado_numero
+Porque de um rabo num dos personagens,pessoas_obra
+E porque que as mulher tão redonda,pessoas_obra
+E essas seres humanos representados é um rabo na mulher,pessoas_obra
+Porque essa obra representa,significado_obra
+Eu identifico entrei na obra isso,sem_resposta
+O que essa torre,elemento_estrutura_metal
+E esses números que estão aqui no no no quadro,significado_numero
+O estilo da obra,estilo_pintura
+Me fale sobre essa obra,significado_obra
+Quais cores são predominantes,cores_obra
+Quando foi a primeira vez que eu salvei faz passar,sem_resposta
+Que carro é aquele lá no fundo,elementos_bonde
+Qual era o regime político existente no Brasil na época da produção do dobra São Paulo,obra_contexto_histórico
+Quem é o pintor está obra,autor_obra
+O que significam os números na obra,significado_numero
+Onde quando Tarsila faleceu,morte_autor
+O que é o número que está na tela representa,significado_numero
+O que são os números,significado_numero
+Qual é o artista dessa obra,autor_obra
+Quem é o autor desta obra,autor_obra
+O que ela representa,significado_obra
+Qual movimento artístico que a obra está ligada,estilo_pintura
+Porque a bomba de gasolina,pessoas_obra
+Mas são outras obras importantes de Tarsila do Amaral,outras_obras
+O que significa os números,significado_numero
+Que representa um número na sua tela da Silva do Amaral,significado_numero
+O que são os números na obra,significado_numero
+São dois seres humanos,pessoas_obra
+Porque tem um rabo não dos personagens do quadro,pessoas_obra
+Que significa esses dois desenhos logo em baixo do quatro,pessoas_obra
+O que que representa,significado_obra
+O que motiva ela faz a tela,significado_obra
+O que significa essa hora,significado_obra
+Porque a pessoa de vermelho tem um rabo,elemento_vermelho
+O que é o trem passando o que significa,elementos_bonde
+Importância pra época dessa obra,importância_obra
+Qualquer importância dessa obra em todo processo de trabalho da Tarsila do Amaral,importância_obra
+É um trem na parte de traz,elementos_bonde
+O que são as figuras na frente,pessoas_obra
+O reencontro quatro texto em semelhante,sem_resposta
+Quem foi seu autor,autor_obra
+O que é essa obra,significado_obra
+Quando foi feita sobre,data_obra
+A um bonde nessa imagem,elementos_bonde
+É porque a palmeira no fundo,elemento_árvore_fundo
+O que representa os números,significado_numero
+Que que é esse boneco aí ele,pessoas_obra
+Quando foi executado,data_obra
+Passar um rio no meio,elementos_rio
+Qual parte de São Paulo que foi retratado,localização_obra
+Com Brahma sua moda da terceira dona,sem_resposta
+Qual estilo dessa obra,estilo_pintura
+E o que quer dizer esse número 13583,significado_numero
+Porque que o personagem teu rabo,elemento_vermelho
+O que representa esse número na obra,significado_numero
+Porque você é o seu pescoço é tão grande,pessoas_obra
+Em qual região pensar até ela foi pintada,localização_obra
+De que lugar se refere essa imagem essa obra,localização_obra
+Eu quero que faz na paisagem,sem_resposta
+Esta semana da arte interna,semana_arte_moderna
+O que significa os números nove,significado_numero
+O que é o que essa figura azul em forma de garrafa,elemento_azul
+Porque tem um trem na obra,elementos_bonde
+Está sol nessa obra,clima_obra
+O que representam os números da obra,significado_numero
+Porque você tem rabo,pessoas_obra
+O que que é essa obra,significado_obra
+O que representa essa obra,significado_obra
+O material foi usando pra fazer pintura,técnica_obra
+Que representa,significado_obra
+O que quer dizer o número 13583,significado_numero
+Em que ano ela foi feita porque ela foi feito,data_obra
+Porque São Paulo,significado_obra
+O que significam os números nessa tela,significado_numero
+Quantos anos tem essa obra,data_obra
+O que significa aquele coqueiro no fundo da imagem,elemento_árvore_fundo
+Esses números que significa,significado_numero
+O que é esse elemento em vermelho,elemento_vermelho
+É um lugar que existe,localização_obra
+Que número é esse,significado_numero
+O que essa bomba de gasolina,pessoas_obra
+Porque a árvore é redonda,elemento_árvore_redonda
+O que as duas pessoas se apresentou na obra,pessoas_obra
+São pessoas retratadas na obra,pessoas_obra
+O que está representa,significado_obra
+O que significa essa obra,significado_obra
+O azul é um rio,elementos_rio
+O que é um elemento azul,elemento_azul
+Utilização das cores,cores_obra
+Vocês são os números,significado_numero
+O que são os números 13 583,significado_numero
+Qual o estilo dessa obra,estilo_pintura
+É o que são os números em quatro,significado_numero
+Do que ela morreu,morte_autor
+O qual lugar de São Paulo que esperar sobra,localização_obra
+O que significa o rabo no personagem,pessoas_obra
+Esse bonequinho de vermelho é uma pessoa,elemento_vermelho
+Que lugar de São Paulo foi retratado a obra,localização_obra
+Qual é o nome desta obra,nome_obra
+Existe um bonde representado na obra,elementos_bonde
+O que que é o que eles números lá naquele prédio,significado_numero
+O que que essa obra quer dizer,significado_obra
+Tem uma alma continua obra,sem_resposta
+Qual é o tipo de árvore da frente,elemento_árvore_redonda
+O que essa estrutura metálica da frente,elemento_estrutura_metal
+É uma é um bonde,elementos_bonde
+Quantas cores horas quatro,cores_obra
+O que quer dizer aquele número no quadro,significado_numero
+O que seria esses números,significado_numero
+Qual o nome do rio que passa no quadro,elementos_rio
+O que é o objeto azul na obra,elemento_azul
+Qual o significado dos números,significado_numero
+Depois eu não tenho hoje não,sem_resposta
+O que quer dizer esse número 13583,significado_numero
+A figura de vermelho é um gato,elemento_vermelho
+Porque eu poste de luz tem um rabo,elemento_vermelho
+O que que é o número na imagem 13 58 31,significado_numero
+De quando essa obra,data_obra
+Bom dia,sem_resposta
+O que é esse número na obra,significado_numero
+Que região de São Paulo retratada nessa nesse quadro,localização_obra
+Porque a Tarsila pintou as pessoas como se fossem soldados,pessoas_obra
+O que significa esse número,significado_numero
+Tem uma porta à tarde você,sem_resposta
+Quais foram as referências da artista pra fazer essa obra,influências_artista
+Ai um pouco fale um pouco mais de Tarsila,biografia_tarsila
+O que é o número no prédio,significado_numero
+O que significa esses números,significado_numero
+Que lugar de São Paulo a obra apresenta,localização_obra
+Aquilo é uma linha de trem,elementos_bonde
+Para onde vai o trem,destino_bonde
+O trem passava pela cidade,elementos_bonde
+Existe algum bonde no quadro,elementos_bonde
+Por quem dos prédios contém números,significado_numero
+O que significa os números,significado_numero
+O que significa o vermelho,elemento_vermelho
+É uma pessoa de azul,elemento_azul
+Quando São Paulo foi criado,data_obra
+Qual a técnica usada para pintura das quatro,técnica_obra
+Me fale algo sobre esse quatro,significado_obra
+Quadro porque você tem essas formas geométricas,formas_obra
+Qual a inspiração,inspiração_obra
+Onde nasceu Tarsila do Amaral,nascimento_autor
+O Vale da Helga bar rua hangar requintado nessa época,sem_resposta
+Vem cá em frente a obra,sem_resposta
+Ela fique em suposta qual museu,museu_obra
+Tem um trem desenhado neste quadro,elementos_bonde
+Tem um número na imagem da imagem ele representa o número de algo real o número que o artista criou,significado_numero
+O número 135831 significa alguma coisa,significado_numero
+O que aqueles números representam,significado_numero
+Porque eu homem de vermelho está com o rabo,elemento_vermelho
+Que ponto da cidade essa obra retrata,localização_obra
+Qual parte de São Paulo é só me,localização_obra
+Quando sobre o fui criada,data_obra
+Como foi pintada obra,técnica_obra
+O que significa a obra São Paulo,significado_obra
+E fale sobre a obra,significado_obra
+Quem é Tarcísio do Amaral,biografia_tarsila
+Qual foi inspiração para obra São Paulo,inspiração_obra
+E a casas da obra,sem_resposta
+O que significa o número que tem na obra,significado_numero
+O que significa estes números na hora,significado_numero
+O que que é o número que está desenhado no quadro,significado_numero
+De quem é a obra São Paulo,autor_obra
+Qual estado é retratada na hora qual,localização_obra
+Porque existem formas de geométrica essa obra,formas_obra
+Qual o significado do trem,elementos_bonde
+Qual a técnica utilizada,técnica_obra
+Quais os materiais usados,técnica_obra
+O que significa,significado_obra
+O que quer dizer essa obra,significado_obra
+O que que você significa,significado_obra
+E o que significa esse número 13583,significado_numero
+Quem foi a Tarsila,biografia_tarsila
+Obras de Tarsila Amaral,outras_obras
+Esta é uma obra modernista,estilo_pintura
+Quem são essas duas pessoas na obra,pessoas_obra
+Essas duas personagens que tem no quadro em vermelhas usar um poste duas são pessoas,pessoas_obra
+O que significa essa bomba de gasolina,pessoas_obra
+O que é isso azul,elemento_azul
+Quanto tempo demorou pra ser pintado,duração_obra
+Quantas janelas tenho quatro,sem_resposta
+Me fale sobre a árvore em primeiro plano,elemento_árvore_redonda
+Essa figura tem um bonde,elementos_bonde
+Qual é esse trem,elementos_bonde
+E porque tem minha carga,sem_resposta
+Então o que são esses números na obra,significado_numero
+Qual foi o momento histórico não sobra,obra_contexto_histórico
+Qual é o autor da obra São Paulo,autor_obra
+Esse de vermelho é uma pessoa,elemento_vermelho
+Onde Tarsila do Amaral realizou esta pintura,localização_obra
+Que parte de São Paulo é,localização_obra
+o que esta figura de vermelho,elemento_vermelho
+Tem um bonde retrasado,elementos_bonde
+Porque não há pessoas retratadas na obra,pessoas_obra
+Que material que é usado na obra,técnica_obra
+Fale sobre a obra,significado_obra
+Porque tem aqueles números lá na obra,significado_numero
+No fundo os prédios o que que significa esses prédios não,elemento_edifício
+Porque um dos personagens do quadro tem um rabo,pessoas_obra
+O que são as folhagens verdes,sem_resposta
+Quando foi pintada,data_obra
+Qual a tinta utilizada,técnica_obra
+Explica sobre a obra,significado_obra
+O que significa essa numeração na obra,significado_numero
+Qual é o estilo de Tarsila do Amaral,estilo_pintura
+Porque é sobre o muito colorida,cores_obra
+Porque essa casa tem três janelas no telhado,sem_resposta
+O que significa 13583,significado_numero
+O que significa o número que está na obra,significado_numero
+O que são os números que estão na obra,significado_numero
+O porque desses números 13583,significado_numero
+Porque que a peça vermelha tem um rabo aqui ó escuta,elemento_vermelho
+Que lugar de São Paulo representa ficado,localização_obra
+Qual a cidade representada,localização_obra
+De que ano é essa obra,data_obra
+Quando foi feita só pra,data_obra
+Qual a explicação dessa obra,significado_obra
+Porque essa hora,significado_obra
+Qual o significado,significado_obra
+Que que aquele número ali significa,significado_numero
+É qual a história da Tarsila do Amaral,biografia_tarsila
+Qual tipo de pintura,estilo_pintura
+Qual o valor desse quadro,valor_obra
+Quero depois posta no exterior,sem_resposta
+Quantos prédios dar na imagem,sem_resposta
+Quanto tempo Tarsila do Amaral gastou para usou para fazer esta obra,duração_obra
+Tem um coqueiro no quadro porque,elemento_árvore_fundo
+Quem criou essa pintura,autor_obra
+Que que é o negócio vermelho,elemento_vermelho
+O que é a figura vermelha no centro esquerda da tela primeiro plano,elemento_vermelho
+Qual lugar retratam agora,localização_obra
+Que lugar é esse,localização_obra
+o que representa os números da tela,significado_numero
+O que que você sabe sobre essa obra,significado_obra
+O que são os números na tela,significado_numero
+Explique sobre a Tarsila,biografia_tarsila
+Ela se inspirou na cidade de São Paulo para fazer isso,inspiração_obra
+Quantas pessoas tem net quatro,pessoas_obra
+Quem são essas duas pessoas,pessoas_obra
+Tem correspondência com a obra de Maria de Andrade,sem_resposta
+O que é aquele número 13583,significado_numero
+E que lugar é esse,localização_obra
+Onde onde é,localização_obra
+É São Paulo de que época,data_obra
+Quando foi criada obra,data_obra
+O que que foi retratado na cintura,significado_obra
+O que ela representa,significado_obra
+Que quer dizer essa obra,significado_obra
+Esta obra representa o que em São Paulo,significado_obra
+Vocês dois são irmãos,pessoas_obra
+Porque é árvore é um círculo,elemento_árvore_redonda
+O que que acontece com o rio,elementos_rio
+Porque tem um número na obra 13583,significado_numero
+O que significa esse número,significado_numero
+Qual o contexto histórico,obra_contexto_histórico
+Quem é o autor dessa obra,autor_obra
+Quem é seu nome de vermelho,elemento_vermelho
+Qual lugar de São Paulo foi retratada nesta obra,localização_obra
+Onde eles estão,localização_obra
+Em que ano foi feita esta obra,data_obra
+O que é sobra significa,significado_obra
+Qual estilo da sua pintura,estilo_pintura
+Porque a pessoa tem um rabo,pessoas_obra
+Isso é uma ponte,elementos_viaduto
+Colar relação à religião de Tarsila com,religiao_artista
+O que significa o número 13583,significado_numero
+O que o número do quadro representa,significado_numero
+Porque os números 135.831,significado_numero
+Quem construiu,autor_obra
+De quem essa obra,autor_obra
+Qual a lógica por trás dos esquemas de cores do esquema de cura utilizar,cores_obra
+Qual o material utilizado nessa obra,técnica_obra
+Porque essa obra foi feita,significado_obra
+Qual é o tema da hora,significado_obra
+Qual foi sua inspiração,inspiração_obra
+Porque as pessoas não tem cara,pessoas_obra
+Quantas pessoas estão na imagem né,pessoas_obra
+Ela fica exposta em qual o Museu,museu_obra
+Qual a parte da cidade retratada,localização_obra
+Qual tinta que ele utilizou fazendo esse quatro,técnica_obra
+O que significa esse código esse código 135 coito três,significado_numero
+Maiores informações sobre o Tarsila do Amaral,biografia_tarsila
+Qual o valor dessa obra,valor_obra
+O que significam esses números,significado_numero
+O que é o número 13583,significado_numero
+Qual o contexto histórico da época,obra_contexto_histórico
+Que ano foi feita esta obra,data_obra
+Esse quadro é uma crítica,significado_obra
+Sobre o que que essa obra,significado_obra
+O que se quatro representa,significado_obra
+Eu nosso fundo cego,sem_resposta
+Qual foi a inspiração,inspiração_obra
+Qual é o valor desse quadro,valor_obra
+Porque nós centro da imagem tem apenas um coqueiro representado,elemento_árvore_fundo
+Que significa o número 13 583,significado_numero
+Quando em que ano foi feita essa pintura,data_obra
+Qual é o tema desta obra,significado_obra
+O que significa obra São Paulo,significado_obra
+Qual valor dessa obra,valor_obra
+Quantas pessoas tem no quadro,pessoas_obra
+Porque é um vagão de trem próximo a cidade,elementos_bonde
+Você é um trem,elementos_bonde
+Por tu ter números nessa pintura,significado_numero
+O que significa o número em um poste no prédio,significado_numero
+Quem fiz o quadro,autor_obra
+Tem essa figura de vermelho no quadro,elemento_vermelho
+Aonde fica isso em São Paulo,localização_obra
+Qual é o significado da Palmeira,elemento_árvore_fundo
+O que representa essa obra,significado_obra
+Do que se trata essa obra,significado_obra
+Qual a história da Tarsila do Amaral,biografia_tarsila
+As pessoas da hora,pessoas_obra
+O uso das cores,cores_obra
+O que que essas numeração de ontem nem 58315,significado_numero
+O que são os números na obra,significado_numero
+O que representam os números,significado_numero
+quem construiu e você,autor_obra
+Quem é o autor da obra,autor_obra
+Que região de São Paulo,localização_obra
+Qual tipo de tinta usada,técnica_obra
+Qual é a técnica desse quadro,técnica_obra
+Qual objetivo dessa obra,significado_obra
+Nessa obra tem uma linha do de trem,elementos_bonde
+Quando viveu Tarsila do Amaral,biografia_tarsila
+Qual era o movimento artístico brasileiro na época em que foi pintada só que ela,estilo_pintura
+Quantas pessoas,pessoas_obra
+Hobby sobre altura,sem_resposta
+O que é aquele trem à direita,elementos_bonde
+Qual é arquitetura desses prédios,elemento_edifício
+O número na obra,significado_numero
+O que significa o número no quadro,significado_numero
+Porque os números,significado_numero
+Que que esses números representa,significado_numero
+Porque a bomba de gasolina vermelho,elemento_vermelho
+Aonde vocês estão,localização_obra
+Esse negócio azul é um poste,elemento_azul
+porque são paulo,significado_obra
+De que ano essa obra,data_obra
+O que ano foi feita,data_obra
+Em que ano foi feita essa arte,data_obra
+Qual o tipo de tinta utilizada,técnica_obra
+Quadro representa o que,significado_obra
+Qual significado da obra,significado_obra
+Porque tem um número na frente do prédio,significado_numero
+Me fale um pouco sobre Tarsila do Amaral,biografia_tarsila
+Essa obra foi inspirada em quem,inspiração_obra
+Qual inspiração,inspiração_obra
+Caldas saindo da pessoa,pessoas_obra
+Qual é este rio,elementos_rio
+Sobre altura,sem_resposta
+Qual é o rio retratado na obra,elementos_rio
+O que são os prédios ao fundo,elemento_edifício
+Foi representado um trem no quadro,elementos_bonde
+Essa obra foi apresentada na semana de Arte Moderna,semana_arte_moderna
+Esses esse lustre azul,elemento_azul
+O que são esses números,significado_numero
+Que números são aqueles,significado_numero
+O que é esse número na obra,significado_numero
+Quem que fez essa obra de São Paulo,autor_obra
+Porque é uma das pessoas tem um rabo,elemento_vermelho
+Qual é o local demonstrado na obra,localização_obra
+Quando esse quadro foi criado,data_obra
+Qual o significado desta obra,significado_obra
+Fale sobre o artista,biografia_tarsila
+Qual a obra mais importante da Tarsila do Amaral,obra_famosa
+O que inspirou Tarsila do Amaral fazer essa pintura,inspiração_obra
+Qual o período da arte brasileira que ela fica constituída em que período modernismo em que época,estilo_pintura
+O que que essa bola e os bonecos,pessoas_obra
+Tem um bonde ao fundo,elementos_bonde
+É um trem que está passando atrás,elementos_bonde
+Qual obra mais importante de Tarsila,obra_famosa
+Número da obra,significado_numero
+Onde Tarsila do Amaral pintou esse quadro,localização_obra
+Essa cena é aonde,localização_obra
+O que seria o objeto em azul,elemento_azul
+Porque que ele fez isso,significado_obra
+Me fale um pouco dessa obra,significado_obra
+O que essa obra retrata,significado_obra
+Em que contexto,obra_contexto_histórico
+Que profissão Tarsila exercer,biografia_tarsila
+Pode se dizer que essa é uma obra do modernismo,estilo_pintura
+Pessoas na obra,pessoas_obra
+O que são esses números na hora na obra de arte,significado_numero
+Porque que tem esse número no prédio,significado_numero
+Qual é o significado dos números,significado_numero
+Quem é pintor,autor_obra
+É uma pessoa de vermelho,elemento_vermelho
+Quem são as pessoas retratadas de vermelho e azul,pessoas_obra
+Aqui traz pra mim personagem de cor vermelha,elemento_vermelho
+Onde é o local,localização_obra
+Qual a história desse quadro,significado_obra
+Qual o significado desse quadro,significado_obra
+Porque o quadro se chama São Paulo,significado_obra
+O que significa essa obra,significado_obra
+O que significam as pessoas na obra,pessoas_obra
+Quem é tercila do Amaral,biografia_tarsila
+O que inspirou a pintura,inspiração_obra
+Qual o estilo dessa obra,estilo_pintura
+O que representa o bonde na pintura,elementos_bonde
+O que o número na obra representa,significado_numero
+Porque os números na tela,significado_numero
+O que são os números,significado_numero
+Quem é o autor desse quatro,autor_obra
+Que local que é esse em São Paulo,localização_obra
+Onde essa cidade,localização_obra
+Qual o seu nome,nome_obra
+qual a relação desta obra com os outros trabalhos da artista,quadros_relacionados
+Como a obra foi feita,técnica_obra
+Como foi pintada sobra,técnica_obra
+Me fale sobre a obra que ela quer dizer com essa obra,significado_obra
+O que que esse quadro significa,significado_obra
+O que Tarsila do Amaral que se apresenta com essa obra São Paulo,significado_obra
+Quem é Tarsila do Amaral,biografia_tarsila
+Quem foi Tarsila de Amaral,biografia_tarsila
+O que foi movimento modernista,estilo_pintura
+Quanto foi,valor_obra
+Quem são as duas pessoas,pessoas_obra
+Porque tinha rabo as pessoas,pessoas_obra
+O que é aquele coqueiro o fundo da hora,elemento_árvore_fundo
+Os pilares sustentou a linha do trem,elementos_bonde
+O que ela estava pensando quando ofereça obra,sem_resposta
+Qual o nome do rio representado na pintura,elementos_rio
+O que seriam os números,significado_numero
+Por que tem números do quatro,significado_numero
+O que é a figura de em vermelho,elemento_vermelho
+Porque o menino de camisa vermelha está com o rabo,elemento_vermelho
+Onde é esse lugar,localização_obra
+Como é que tirou essa ideia,significado_obra
+O que essa obra representa,significado_obra
+E a garrafa do lado é só o que representa,pessoas_obra
+Ela representa o movimento modernista,estilo_pintura
+Qual o valor da obra,valor_obra
+Quem são essas pessoas,pessoas_obra
+O que são as pessoas,pessoas_obra
+O que são essas figuras com uma bola branca na cabeça,pessoas_obra
+Qual é o trem que está sendo retratado,elementos_bonde
+qual contexto histórico,obra_contexto_histórico
+Quem que fez essa obra,autor_obra
+Está numa cidade grande ou pequena,localização_obra
+Quando essa obra foi pintada,data_obra
+O que está escrito Amaral quis representar nessa obra,significado_obra
+Me fale sobre a obra,significado_obra
+A Tarsila do Amaral é brasileira,biografia_tarsila
+Sobre as formas geométricas,formas_obra
+Porque é que as pessoas tem um rabo,pessoas_obra
+O rio que tinha no Vale do Ingabaú quando que ele sumiu testar a cidade,elementos_rio
+Que números são esses aí,significado_numero
+O que significa ficar em vermelho,elemento_vermelho
+Porque não há pessoas,pessoas_obra
+Quem são os personagens,pessoas_obra
+Quando que você pintou,data_obra
+O que que essa obra quis representar,significado_obra
+O que significa o rabo uma pessoa,pessoas_obra
+Porque essa árvore é retorna,elemento_árvore_redonda
+O que significa essa torre,elemento_estrutura_metal
+No canto superior direito é um bonde de São Paulo não,elementos_bonde
+Qual é esse número que está na obra,significado_numero
+O que representam aqueles números,significado_numero
+De que ano foi está em que ano feita sua obra,data_obra
+Me explica esse quadro,significado_obra
+Conte um pouco sobre artista,biografia_tarsila
+Porque essa pessoa tem um rato,pessoas_obra
+O que significa os números 13583,significado_numero
+Qual é o nome da autora deste quadro,autor_obra
+Em que local essa obra foi pintada,localização_obra
+Que lugar a obra,localização_obra
+Significa essa obra,significado_obra
+O que essa esse quadro chamar São Paulo,significado_obra
+O que você representa,significado_obra
+Porque que essa pessoa tem rabo,pessoas_obra
+Qual estilo da sua obra,estilo_pintura
+Porque tem um metrô atrás,elementos_bonde
+Porque a pinatto na cor tech comprou quatro da Tarsila do Amaral,sem_resposta
+Existe algum trem na obra,elementos_bonde
+Qual o que representam esses números,significado_numero
+O que é o número uma pintura,significado_numero
+O que significam os números da obra,significado_numero
+O que significa 13 58 31,significado_numero
+Que lugar é este,localização_obra
+Qual o nome dessa obra,nome_obra
+Qual é a árvore redonda,elemento_árvore_redonda
+Quais os materiais utilizados na horta,técnica_obra
+Me conte um pouco sobre a obra São Paulo por favor,significado_obra
+O que significava,significado_obra
+Porque você tem rabo,pessoas_obra
+Qual é história de Tarsila do Amaral,biografia_tarsila
+Você é um poste de iluminação ou Elson pessoas,pessoas_obra
+Obrigada,sem_resposta
+Porque essa obra tão colorida,cores_obra
+Ai está representando o rio Tietê,elementos_rio
+Qual é o rio representado,elementos_rio
+Quem que esse número 13583,significado_numero
+Onde essa obra,localização_obra
+O que significa isso,significado_obra
+Qual estilo de pintura,estilo_pintura
+Quantos anos tem essas pessoas,pessoas_obra
+E essas pessoas que estão em volta dessa piranha,pessoas_obra
+Como era a utilização das cores,cores_obra
+E aquele trem no fundo ele significa o que,elementos_bonde
+Porque esses números,significado_numero
+De quem que é o autor,autor_obra
+que é a figura de azul,elemento_azul
+o que são os números,significado_numero
+Porque a Tarsila retrata São Paulo,significado_obra
+Qual é o valor dessa obra,valor_obra
+Qual o valor dessa hora,valor_obra
+O que são essas pessoas na frente,pessoas_obra
+Que trem é esse,elementos_bonde
+Existe algum rio na obra,elementos_rio
+O que quer dizer o número 13583,significado_numero
+O que significa esse número 13583,significado_numero
+O que significa nesses números,significado_numero
+E o que significa esse poste vermelho aí com rabo,elemento_vermelho
+O que é a figura vermelha,elemento_vermelho
+O que que a obra está mostrando,significado_obra
+Significado dessa obra,significado_obra
+Qual valor avaliado da obra,valor_obra
+Qual é a árvore que está sendo retratado na tela,elemento_árvore_redonda
+Este rio é o Tietê,elementos_rio
+Porque está escrito número 13583,significado_numero
+O que representa o número da pintura,significado_numero
+O que significam os números,significado_numero
+Que esse número representa,significado_numero
+Aonde foi feito,localização_obra
+Qual é o nome da obra,nome_obra
+Quando é sobre o foi pintada,data_obra
+Como a pintura foi criada,técnica_obra
+Porque a obra retrata,significado_obra
+Qual inspiração do artista pra usar essas cores,cores_obra
+Quem são as personagens da obra,pessoas_obra
+O que é o elemento azul,elemento_azul
+Porque nas cores deste quadro,cores_obra
+Qual foi as cores que Tarsila do Amaral mas usou nessa pintura,cores_obra
+Porque tem uma palmeira no fundo,elemento_árvore_fundo
+Existe um trem na figura,elementos_bonde
+O que representa os prédios na pintura,elemento_edifício
+Quanto tempo que eu demoro pra ser pintado,duração_obra
+Quem compôs a obra,autor_obra
+Qual a idade Carcillo tinha quando fez a pintura,idade_autor_obra
+Qual cidade é retratada na obra,localização_obra
+O viaduto santa Ifigenia,elementos_viaduto
+A um rio na obra,elementos_rio
+Maiores informações sobre Tarsila do Amaral,biografia_tarsila
+Qual foi a inspiração do Tércio do Amaral,inspiração_obra
+Quem são as pessoas da obra,pessoas_obra
+Por que é que as pessoas tem um rabo,pessoas_obra
+Tem correspondência com o período de Osvald Andrade,sem_resposta
+Qual local da obra,localização_obra
+Que obra é essa,nome_obra
+Quando essa obra foi feita,data_obra
+Por que ela criou São Paulo,significado_obra
+O porquê dos números na lateral do quadro,significado_numero
+Que os bonecos são,pessoas_obra
+Porque as pessoas não tem rosto,pessoas_obra
+Porque eu te Lisa aram essas cores,cores_obra
+Como ela pensou na sombra,sombras_obra
+Qual nome da sua tela,nome_obra
+Quando foi feita,data_obra
+Em que ano você foi pintado,data_obra
+Qual a técnica,técnica_obra
+Fale um pouco respeito da obra,significado_obra
+Sobre o que esta obra,significado_obra
+E a garrafa do lado direito ou parece uma garrafa,pessoas_obra
+Qual sua inspiração,inspiração_obra
+Quando faleceu,morte_autor
+O que são as duas figuras na frente da obra,pessoas_obra
+é quantos anos essa obra tem,data_obra
+em que ano foi pintado,data_obra
+a obra de quando,data_obra
+quando a sogra foi pintada,data_obra
+de quando essa obra,data_obra
+em que ano foi feita essa,data_obra
+quando você foi pintado,data_obra
+de quando essa hora,data_obra
+quando foi finalizada,data_obra
+õ quantos anos tem esse quadro,data_obra
+qual a opinião pública sobre a sogra,significado_obra
+porque existem esses números no canto do quadro,significado_numero
+quantos anos tem essa obra,data_obra
+o que significa o número na tela,significado_numero
+quando ela fez essa obra,data_obra
+que ano foi que ano foi feita,data_obra
+em qual ano foi pintado esse quatro,data_obra
+o que representam os números,significado_numero
+quantos anos tem esse quadro,data_obra
+quando foi criada a sua obra,data_obra
+quando esse quadro foi pintado,data_obra
+em que ano foi pintada,data_obra
+quando ela foi pintada,data_obra
+em que ano foi feita essa obra,data_obra
+o que significam os números,significado_numero
+quando quadro foi pintado,data_obra
+quando você foi pintada,data_obra
+quando foi feita a obra,data_obra
+de quando é a obra,data_obra
+em que ano foi pintado esse quatro,data_obra
+o que é o número da obra,significado_numero
+quando esse quadro foi feito,data_obra
+de quando que é esse quadro,data_obra
+de qual ano que é a sogra,data_obra
+guri,sem_resposta
+que local de são paulo está representado nessa obra,localização_obra
+qual é o el local o que está na pintura,localização_obra
+qual é o lugar da pintura,localização_obra
+quantos anos tarsila do amaral tinha quando pintou esta obra,idade_autor_obra
+qual a idade do autor nessa época desse quadro,idade_autor_obra
+qual o ano da obra,data_obra
+de que ano é essa obra,data_obra
+qual é o nome desta,nome_obra
+qual é o nome,nome_obra
+qual é o nome dessa obra,nome_obra
+qual a relação dessa obra com outras obras da mesma autora,outras_obras
+quais as obras mais importantes de tarsila do amaral,outras_obras
+quais são as obras mais importantes de tarsila do amaral,outras_obras
+de quem é a obra,autor_obra
+de quem essa obra,autor_obra
+quais artistas influenciaram tarsila do amaral,influências_artista
+o rio na obra eu e o anhangabaú,elementos_rio
+o azul representada na obra é o rio,elementos_rio
+tem um rio na obra,elementos_rio
+e qual aquela construção azuladas meio cinza perto do rio,elementos_rio
+qual é o rio que passa pela imagem,elementos_rio
+porque tem tanto verde,cores_obra
+porque são paulo tão colorido,cores_obra
+porque são utilizadas essas cores,cores_obra
+quais as cores usadas,cores_obra
+essa pintura está inspirado em alguma paisagem do brasil,inspiração_obra
+quanto vale quanto vale uma obra dessa,valor_obra
+quanto custa,valor_obra
+qual valor da obra,valor_obra
+o que esse trem representa,elementos_bonde
+que é o vagão de trem,elementos_bonde
+é um bonde representada na na pintura,elementos_bonde
+ali é um metrô,elementos_bonde
+o que há dentro do trem,elementos_bonde
+o que significa esse número da sua obra,significado_numero
+o que significa o número 13 58 31,significado_numero
+qual é o significado do número 3583,significado_numero
+o que significa esses números 13583,significado_numero
+o que são esses números nos prédios,significado_numero
+é possível que aquele número seja a quantidade de habitantes na época,significado_numero
+essa pintura é de óleo,técnica_obra
+quais são os componentes pintados nessa obra,técnica_obra
+qual a técnica de pintura,técnica_obra
+quais os materiais utilizados na obra,técnica_obra
+qual a técnica utilizada,técnica_obra
+como esse quadro foi feito,técnica_obra
+qual a técnica foi usada,técnica_obra
+porque tem uma pessoa no quarto com o rabo,pessoas_obra
+o que são esses dois objetos na tela,pessoas_obra
+onde nasceu tarsila do amaral,nascimento_autor
+onde nasceu tarsila,nascimento_autor
+porque tarcila os as formas geométricas,formas_obra
+porque as duas figuras humanas tem formas estranhas,formas_obra
+porque só tem formas geométricas,formas_obra
+porque está tudo redondo,formas_obra
+escolhe,sem_resposta
+tátá,sem_resposta
+carnaval em madureira,sem_resposta
+obrigado,sem_resposta
+perto,sem_resposta
+o que altura que escrever lá com essa obra,sem_resposta
+porque tem,sem_resposta
+porque eu não tenho rabo,sem_resposta
+sobre tarsila do amaral,biografia_tarsila
+qual a história de tarsila do amaral,biografia_tarsila
+fale sobre tarsila do amaral,biografia_tarsila
+me fala um pouco sobre tarsila do amaral,biografia_tarsila
+porque eu personagem humano tem um rabo,elemento_vermelho
+que significa esse ponto vermelho,elemento_vermelho
+o que é o rabo,elemento_vermelho
+a estrutura vermelha representa uma pessoa,elemento_vermelho
+faça com ficado atenção pra,sem_resposta
+desculpe não,sem_resposta
+a paisagem é são paulo capital,localização_obra
+qual é o autor da obra,autor_obra
+quem fez essa pintura,autor_obra
+existe um rio na obra,elementos_rio
+no meio da obra tem um rio,elementos_rio
+qual a razão das cores,cores_obra
+e esse bondinho ele é um trem é o metrô,elementos_bonde
+quais são os meios de transporte bonitas atualmente,elementos_bonde
+o que significa esse número 13 58,significado_numero
+o que significa o número 135831 na obra,significado_numero
+o que significa os números na tela,significado_numero
+o que são os números ar esquerda a parte de cima do 413583,significado_numero
+quantos filhos teve altura,sem_resposta
+qual história da tarsila,biografia_tarsila
+qual o viaduto,elementos_viaduto
+quanto tempo demorou pra pintar a obra,duração_obra
+me fale tudo que você sabe sobre a aula são paulo,significado_obra
+o que é um elemento de azul,elemento_azul
+oi como que você,sem_resposta
+não fala mais sobre os estão pra são paulo está retratava nela,sem_resposta
+agora escuta,sem_resposta
+quem pintou a obra,autor_obra
+o que significa os números em cima do prédio,significado_numero
+quais são os personagens da obra,pessoas_obra
+fale um pouco sobre a vida da autora,biografia_tarsila
+quais são esses prédios,elemento_edifício
+quanto tempo autora levou pra fazer essa obra,duração_obra
+semana de arte moderna,semana_arte_moderna
+me fale sobre autora tarsila do amaral,biografia_tarsila
+piano,sem_resposta
+moram,sem_resposta
+aonde fica esse lugar,localização_obra
+quem pintou você,autor_obra
+porque eu tenho uma árvore no fundo,elemento_árvore_fundo
+o que representam os números na obra,significado_numero
+que técnica de pintura a tarsila utilizou,técnica_obra
+porque as pessoas não tem rosto,pessoas_obra
+o que são esses dois objetos em primeiro plano,pessoas_obra
+são pessoas na obra,pessoas_obra
+as figuras humanas tem uma calda como se fosse um gato,pessoas_obra
+porque porque você tem um cabo e não tenho braço,sem_resposta
+essa sentar tenho que eu tenho,sem_resposta
+porque é um personagem tem rabo,elemento_vermelho
+quanto tempo demorou pra fazer essa obra,duração_obra
+para onde o trem está partindo,destino_bonde
+porque eu tenho muita coisa eventos,sem_resposta
+piar primeira aula,sem_resposta
+quem criou esse quadro,autor_obra
+quem fez essa obra de arte,autor_obra
+porque as cores da obra estão tão viva,cores_obra
+porque tem um caminhão aí,elementos_bonde
+qual a relação do número do prédio que está a esquerda,significado_numero
+qual significado dos números,significado_numero
+o que tem no fundo da obra,sem_resposta
+é só uma não tem perspectiva altura não fez tudo no plano só,sem_resposta
+porque o personagem tem um rabo,elemento_vermelho
+quanto tempo levou para ser pintada,duração_obra
+e atenção linha de ação,sem_resposta
+o quatro inspirado em quem,inspiração_obra
+qual o significado dos números,significado_numero
+qual que é a técnica desse quatro,técnica_obra
+me conta sobre a tarsila,biografia_tarsila
+quem foi tarsila,biografia_tarsila
+qual contexto dessa hora,obra_contexto_histórico
+porque a árvore parece um pirulito,elemento_árvore_redonda
+war war is despedir,sem_resposta
+lari,sem_resposta
+inúmeros né mate,sem_resposta
+que cenário é esse,localização_obra
+qual lugar representado por essa obra,localização_obra
+quem é,autor_obra
+quem pintou essa obra,autor_obra
+que bonde é esse,elementos_bonde
+existe algum carro nessa pintura,elementos_bonde
+o que é aquele carro lá em cima,elementos_bonde
+porque você tem rabo,pessoas_obra
+tem um bom dia e essa pintura,sem_resposta
+um fala sobre a tarsila,biografia_tarsila
+porque o boneco tem um rabo,elemento_vermelho
+qual a importância dessa obra,importância_obra
+porque eu,sem_resposta
+constituem,sem_resposta
+tenho mármore nessa pintura,sem_resposta
+porque tem um monte de gente,sem_resposta
+você foi criado em que ano,data_obra
+quem pintou esse quadro,autor_obra
+essa água é um rio ou outra coisa,elementos_rio
+esse azul em um rio,elementos_rio
+qual foi a inspiração do quatro,inspiração_obra
+quanto vale essa obra,valor_obra
+a um bonde na pintura,elementos_bonde
+o que que significa o trem,elementos_bonde
+porque em um prédio tem números 13583,significado_numero
+como você foi feita,técnica_obra
+porque a pessoa tem um rabo,pessoas_obra
+quem são essas duas pessoas,pessoas_obra
+quero dar um bolo de,sem_resposta
+porque o personagem tem rabo,elemento_vermelho
+esse imagem vermelho é uma pessoa,elemento_vermelho
+a importância da obra da cultura brasileira,importância_obra
+a obra metálica é o masp,elemento_estrutura_metal
+quais são as outras obras,outras_obras
+que construção que ela perto daquela coisinha e nade colina de grama,sem_resposta
+existem duas torres ferro,sem_resposta
+qual inspiração desse quadro,inspiração_obra
+existe um trem na obra,elementos_bonde
+o número no lado esquerdo superior significa algo,significado_numero
+porque eu número nas torres,significado_numero
+que técnica foi usada para fazer a pintura,técnica_obra
+quero,sem_resposta
+quantos caixa de banana tem no bananal,sem_resposta
+qual a importância da obra,importância_obra
+que essa obra expressa,significado_obra
+várias,sem_resposta
+a mãe,sem_resposta
+pilar,sem_resposta
+não entendi,sem_resposta
+por assinaram em casa,sem_resposta
+oi,sem_resposta
+e no outro negócio também com muita paz com,sem_resposta
+você foi criada em que ano,data_obra
+quem fez você,autor_obra
+porque que essa estrada marrom cai dentro de um rio,elementos_rio
+qual foi a inspiração da autora,inspiração_obra
+o que significa o número do quatro,significado_numero
+o que é um número representado na obra,significado_numero
+e o que são aqueles números,significado_numero
+o que significa as figuras o primeiro plano,pessoas_obra
+isso é uma pessoa,pessoas_obra
+qual a história da tarsila do amaral,biografia_tarsila
+os edifícios retratam qual instituição,elemento_edifício
+o que significa essa moldura em azul em volta dos prédios,elemento_edifício
+qual a importância histórica da obra,importância_obra
+quando foi namorada sal obrigada,sem_resposta
+boa tarde,sem_resposta
+oi artista que pintou esse quadro,sem_resposta
+por que as porcelanas tem acarinha tanto,sem_resposta
+tem um trem na imagem,elementos_bonde
+a figura vermelha o que representa,elemento_vermelho
+qual a sua importância,importância_obra
+porque ele tem os lábios tão grandes,sem_resposta
+aquela mesma paisagem uma que eu tenho,sem_resposta
+que lugar de são paulo representa o quadro,localização_obra
+qual a região retratada,localização_obra
+quem criou a obra,autor_obra
+o que é objeto com rodas,elementos_bonde
+pra que que serve aqueles números,significado_numero
+que são as figuras em primeiro plano na obra,pessoas_obra
+quando morreu tarsila do amaral,morte_autor
+tem um rabo na pintura,elemento_vermelho
+o que é o objeto com rabo,elemento_vermelho
+é ali é uma ponte,elementos_viaduto
+qual contexto da obra,obra_contexto_histórico
+essa obra estava na semana da arte moderna,semana_arte_moderna
+tomara tinha os,sem_resposta
+duas três perguntas de volta,sem_resposta
+olá suco,sem_resposta
+quem foi que pintou essa obra,autor_obra
+qual foi a inspiração da tarsila pra fazer essa obra,inspiração_obra
+qual o significado dessa palmeira,elemento_árvore_fundo
+não tem pessoas na obra,pessoas_obra
+quem for tarsila do amaral,biografia_tarsila
+o de camisa vermelha é um gato,elemento_vermelho
+a figura de vermelho no canto esquerdo da obra o que representa,elemento_vermelho
+ela retrata um viaduto não né,elementos_viaduto
+perguntas,sem_resposta
+vitória,sem_resposta
+porque ela usou cores estão vivas na pintura,cores_obra
+o que significa esse trem,elementos_bonde
+o que são aqueles números do quatro,significado_numero
+porque as pessoas parece um gato e uma lâmpada,pessoas_obra
+então,sem_resposta
+é uma obra pré modernista certo,estilo_pintura
+qual o elemento azul à frente da obra,elemento_azul
+porque are free tem formato secular,sem_resposta
+você gosta de ser app,sem_resposta
+procon bom com texto foi feito sobra,sem_resposta
+ela tem filhos,sem_resposta
+que eu autorizava sentir,sem_resposta
+vidência,sem_resposta
+entrei 83,sem_resposta
+as casas eram as casas eram caso,sem_resposta
+porque apenas eu tenho algo,sem_resposta
+tem quantos,sem_resposta
+você já foi à paris,sem_resposta
+onde fica esse lugar,localização_obra
+quantos anos tem essa pintura,data_obra
+em que ano foi feito esse quadro,data_obra
+watson quem foi que fez essa pintura,autor_obra
+quem foi o patrono da obra,autor_obra
+quem é o autor desse quadro,autor_obra
+qual foi a inspiração,inspiração_obra
+porque o coqueiro,elemento_árvore_fundo
+aquilo ali é um trem,elementos_bonde
+aquele veículo lá no fundo é um bondinho,elementos_bonde
+o que representa o número,significado_numero
+que são os números,significado_numero
+o que são esses números não,significado_numero
+que representasse número no quadro,significado_numero
+que representa o número,significado_numero
+o que é esse número 3583,significado_numero
+o que quer dizer esse número,significado_numero
+porque as pessoas estão pintadas desse jeito,pessoas_obra
+são pessoas em frente,pessoas_obra
+que é um uma das pessoas está segurando uma coleira,pessoas_obra
+quem quem são essas pessoas,pessoas_obra
+porque as pessoas desse quadro são diferentes,pessoas_obra
+quem são esses dois seres representados aqui na frente,pessoas_obra
+sobre o artista,biografia_tarsila
+me fale um pouco sobre a tarsila do amaral,biografia_tarsila
+quem foi tarsila amaral,biografia_tarsila
+quais são os prédios no fundo,elemento_edifício
+olá,sem_resposta
+eu disse que altura seguir,sem_resposta
+eu gostei dessa pintura,sem_resposta
+qual a função do bonde passando pelo viaduto,elementos_bonde
+o que é esse número 135.831,significado_numero
+quer lá tenho que ver,sem_resposta
+porque o homem tem rabo,elemento_vermelho
+me fala um pouco sobre o estilo da tarsila do amaral,estilo_pintura
+porquê do número 135.831,significado_numero
+você quer perguntar oi,sem_resposta
+nature,sem_resposta
+quem fez a obra,autor_obra
+qual a importância das cores,cores_obra
+que são esses números,significado_numero
+tem pessoas nessa obra,pessoas_obra
+história da tarsila do amaral,biografia_tarsila
+qual estilo artístico,estilo_pintura
+oi quadro eu pago,sem_resposta
+esse quatro de temporal não,sem_resposta
+a palmeira aos no centro superior tem algum significado,elemento_árvore_fundo
+porque tem um trem,elementos_bonde
+e o bonde o que ele representa,elementos_bonde
+o que significa o metrô no vale do anhangabaú,elementos_bonde
+que que significa esses números dos,significado_numero
+que tipo de tinta foi usada,técnica_obra
+porque não tem pessoas nem animais,pessoas_obra
+quem foi a tarsila do amaral,biografia_tarsila
+podemos dizer que ela é uma pintura modernista,estilo_pintura
+qual o contexto dessa obra,obra_contexto_histórico
+em 1921 já existe um bom país,sem_resposta
+tchau,sem_resposta
+entrei,sem_resposta
+tem que eu sou nessa obra,sem_resposta
+quantos anos tem seu namorado tem na pica que eu tenho pra,sem_resposta
+tapa que eu tempo essa obra está aqui na pinacoteca,sem_resposta
+essa obra representa algum local,localização_obra
+qual é a cidade que foi pintada,localização_obra
+qual é o nome desta obra,nome_obra
+quem criou você,autor_obra
+quais as principais cores usadas por tarsila do amaral,cores_obra
+o que que o bonde representa,elementos_bonde
+passava bonde na paulista,elementos_bonde
+o que significa número 3583,significado_numero
+o que é esse número na tela,significado_numero
+porque nessa arte não tem pessoa,pessoas_obra
+quem são as pessoas em primeiro plano,pessoas_obra
+quem foi tarsila dar moral,biografia_tarsila
+porque o endivido tem um rabo uma calda,elemento_vermelho
+aquele é o viaduto do chá,elementos_viaduto
+é uma ponte,elementos_viaduto
+qual obra mais importante da autora,obra_famosa
+essa obra fez parte da semana da arte moderna,semana_arte_moderna
+qual é altura com esta obra,sem_resposta
+o que representa as três janelas em cima do telhado de uma casa do seu,sem_resposta
+aonde essa obra foi realizada,localização_obra
+quando você foi criado,data_obra
+quem é o autor,autor_obra
+o que representa o trem,elementos_bonde
+o que significa o número,significado_numero
+que quer dizer esses número,significado_numero
+o número da obra e significa o que,significado_numero
+que que esse número no quatro,significado_numero
+porque uma pessoa tem rabo,pessoas_obra
+o que autora eu estava pensando quando pintou esse quadro,sem_resposta
+o que é esse elemento que parece um gato borrado sei lá,elemento_vermelho
+o que é a figura em vermelho,elemento_vermelho
+em que contexto histórico essa obra foi feita,obra_contexto_histórico
+peço,sem_resposta
+onde foi feito esse quadro,localização_obra
+quem pintou esse quatro,autor_obra
+o que que significa 13 58 31,significado_numero
+fale sobre o contexto histórico da hora,obra_contexto_histórico
+jack,sem_resposta
+essa obra representa qual parte de são paulo,localização_obra
+quantos anos a pessoa tinha quando fez essa hora,idade_autor_obra
+quem é o autor do quatro,autor_obra
+qual foi inspiração da obra,inspiração_obra
+e a palmeira o que significa,elemento_árvore_fundo
+aquilo é um bondinho,elementos_bonde
+o que significa esse número na obra,significado_numero
+qual o significado dos números na tela,significado_numero
+o que são esses bichos,pessoas_obra
+quem era tarsila do amaral,biografia_tarsila
+porque tem um homem com o rabo,elemento_vermelho
+porque essa obra tem vários prédios,elemento_edifício
+porque árvore é tão redon,elemento_árvore_redonda
+local onde foi feita a obra,localização_obra
+o que significa o coqueiro,elemento_árvore_fundo
+porque tem um rato,pessoas_obra
+isto é uma ponte,elementos_viaduto
+porque árvore é redonda,elemento_árvore_redonda
+que é o bruno eu não pretendo passar,sem_resposta
+qual parte em são paulo foi retratado na imagem,localização_obra
+quem é o ator desse quatro,autor_obra
+e o veículo sobre roda é um trem um bonde,elementos_bonde
+qual é o número que está escrito,significado_numero
+o que quer dizer o número,significado_numero
+o que é aquele número 135831 que ele representa,significado_numero
+qual tinta foi pintada esse quatro,técnica_obra
+os negros nessa época eu sofria com muita preconceito discriminação,sem_resposta
+quem é tarsila,biografia_tarsila
+o que é a torre verde atrás do quadro,elemento_estrutura_metal
+esse trem está indo pra onde,destino_bonde
+trata se trata-se então de uma altura que representa são paulo moderna,sem_resposta
+porra,sem_resposta
+o que está em segundo plano,sem_resposta
+em qual cidade essa obra foi confeccionada,localização_obra
+quem que fez essa pintura,autor_obra
+porque a escolha de cores por parte da artista,cores_obra
+e o que é o trenzinho,elementos_bonde
+o que seriam os números,significado_numero
+o que é os números do quatro,significado_numero
+qual é a técnica dessa pintura,técnica_obra
+tem uma pessoa com rabo,pessoas_obra
+porque não tem pessoas no quatro,pessoas_obra
+o que essas pessoas estão fazendo,pessoas_obra
+vem cá,sem_resposta
+restaurador. tem,sem_resposta
+fale-me sobre tarsila do amaral,biografia_tarsila
+fale mais sobre artista,biografia_tarsila
+porque tem homem com o rabo,elemento_vermelho
+o que é objeto vermelho,elemento_vermelho
+e o que significa elemento vermelho,elemento_vermelho
+porque a pessoa de roupa vermelha tem rabo,elemento_vermelho
+oi que significa os prédios,elemento_edifício
+pode devolver gente vai,sem_resposta
+natureza,sem_resposta
+porque eu ame representado tem uma carona,sem_resposta
+o que tarsila do amaral sentia quando feita só pra,sem_resposta
+a um rio nessa obra,elementos_rio
+quanto essa obra vale,valor_obra
+porque tem um vagão de trem é o fundo da imagem,elementos_bonde
+o que são os números na obra,significado_numero
+o que seria esses números,significado_numero
+sabe explicar porque os redondos das duas figuras,pessoas_obra
+queria chegar mais perto do anhangabaú,sem_resposta
+é sobra só no museu desde quando,sem_resposta
+quem foi tarsila do amaral,biografia_tarsila
+o que essa coisa vermelha na obra,elemento_vermelho
+valha escutando pensando em te respondendo,sem_resposta
+fale-me sobre altura,sem_resposta
+eu faleça obra,sem_resposta
+eu até que tenho um por 3005 o oito e o três e,sem_resposta
+que representa esse número,significado_numero
+o que são os números apresentados no quatro,significado_numero
+o que são aqueles números no quadro,significado_numero
+porque ela desenharia uma bomba de gasolina,pessoas_obra
+cacetada,sem_resposta
+quem é a pessoa de vermelho,elemento_vermelho
+são prédios de moradias,elemento_edifício
+e a forma de bolo na frente,sem_resposta
+pica,sem_resposta
+pergunta com com quantos coqueiros tem aí,sem_resposta
+que região da cidade essa obra retrata,localização_obra
+quantos anos tarsila tinha quando ela te pintou,idade_autor_obra
+o que que é aquele carro é um bonde,elementos_bonde
+o que significa os números nessa pintura,significado_numero
+o que é esse número 13583,significado_numero
+o que é essa coisa com rabo,pessoas_obra
+a 134 puxando,sem_resposta
+são paulo não tem extrato,sem_resposta
+que cidade você retrata,localização_obra
+quem foi o artista que pintou essa obra,autor_obra
+porque é colorido,cores_obra
+no quadro tem um trem,elementos_bonde
+o que significa numeração no canto esquerdo superior da obra,significado_numero
+tem duas pessoas nessa figura,pessoas_obra
+quem são esses dois personagens que são figurando na obra,pessoas_obra
+fale sobre o autor,biografia_tarsila
+você é um gato,elemento_vermelho
+o que esse quadro mostra,significado_obra
+porque esse quadro representa são paulo,significado_obra
+qual é história dessa pintura,significado_obra
+o que representa essa pintura,significado_obra
+informações sobre o quadro,significado_obra
+o que que significa essa obra,significado_obra
+quero saber mais sobre a obra,significado_obra
+a obra representa são paulo,significado_obra
+qual foi o motivo do quatro são paulo,significado_obra
+o que esse quadro significa,significado_obra
+o que está representada na obra,significado_obra
+o que está representado na obra,significado_obra
+fale um pouco sobre a obra,significado_obra
+defina obra,significado_obra
+o que tem nesse quadro,significado_obra
+descreva a obra,significado_obra
+o que se trata,significado_obra
+qual significado dessa obra de tarsila do amaral,significado_obra
+qual a história são paulo na obra né,significado_obra
+qual foi o intuito da tarsila fazer o quadro,significado_obra
+qual é a sua história,significado_obra
+qual é o objetivo dessa obra,significado_obra
+qual que é o estilo dessa obra,estilo_pintura
+qual estilo da pintura,estilo_pintura
+qual estilo da obra são paulo,estilo_pintura
+que tipo de pintura,estilo_pintura
+que estilo é esse,estilo_pintura
+qual estilo dessa obra,estilo_pintura
+qual escola da arte,estilo_pintura
+qual é o estilo da obra,estilo_pintura
+qual estilo de obra,estilo_pintura
+qual a escola da arte,estilo_pintura
+que estilo de obra esse,estilo_pintura
+qual o estilo dessa obra,estilo_pintura
+qual estilo da obra,estilo_pintura
+que tipo de arte essa,estilo_pintura
+qual é a escola da arte,estilo_pintura
+qual o contexto histórico dessa obra,obra_contexto_histórico
+qual contexto ela foi feita,obra_contexto_histórico
+em que contexto a obra foi criada,obra_contexto_histórico
+qual contexto político,obra_contexto_histórico
+qual o contexto da obra,obra_contexto_histórico
+qual contexto,obra_contexto_histórico
+o que é isso negócio azul,elemento_azul
+e a figura de azul que é,elemento_azul
+o que significa essa parte pintada em azul,elemento_azul
+essa coisa azul ela é o que,elemento_azul
+e o elemento azul,elemento_azul
+quem é o bonequinho de azul,elemento_azul
+que o personagem azul,elemento_azul
+o que é o elemento azul à direita no quatro,elemento_azul
+que é o elemento azul,elemento_azul
+o que é figura de azul,elemento_azul
+o que a figura azul,elemento_azul
+o que é objeto azul,elemento_azul
+porque a figura de um personagem com calda,elemento_azul
+e o elemento em azul que é,elemento_azul
+e o que é a figura azul,elemento_azul
+quem é o elemento azul,elemento_azul
+porque essa árvore é tão redonda,elemento_árvore_redonda
+porque a árvore com copa redonda,elemento_árvore_redonda
+me conta sobre a obra,significado_obra
+explique sobre a obra,significado_obra
+me diga tudo que você sabe sobre esta obra,significado_obra
+explique a obra,significado_obra
+o que você pode me dizer sobre essa obra,significado_obra
+porque a obra representa são paulo,significado_obra
+qual a ideia do quadro,significado_obra
+que significa essa obra,significado_obra
+sobre o que é a obra,significado_obra
+onde é esse lugar,localização_obra
+aonde que foi pintado,localização_obra
+é significado do número 13583,significado_numero
+porque tem esse número no prédio,significado_numero
+o que significa os números da pintura,significado_numero
+o que significa aquele número na obra,significado_numero
+e o que significa o número gravado na pintura,significado_numero
+sobre o que é a obra,significado_obra
+qual é história do se cobre,significado_obra
+que representa locomotiva,elementos_bonde
+qual o sentido da obra,significado_obra
+fale sobre essa obra,significado_obra
+que representa esta obra,significado_obra
+o que são as duas bolas brancas que parecem corpos,pessoas_obra
+número que tem no quadro que que significa,significado_numero
+quantos anos essa pintura tem,data_obra
+que lugar de são paulo,localização_obra
+e o que significa aqueles números que tem na tela,significado_numero
+me fale sobre a obra,significado_obra
+número 13 58 31,significado_numero
+o que tarsila do amaral queria dizer com essa obra,significado_obra
+qual é o significado dessa obra,significado_obra
+o que significa 13583,significado_numero
+o que significam os números,significado_numero
+o que significa 135831 da obra,significado_numero
+o que quer dizer os números 13583 ou na obra,significado_numero
+significa esta obra,significado_obra
+o que o quadro representa,significado_obra
+em que lugar foi pintado,localização_obra
+não onde que você está,localização_obra
+do local é esse de são paulo,localização_obra
+qual o significado do número 135831 na obra só tocar uma vez,significado_numero
+porque esse número,significado_numero
+e os números até estava no quadro o que seria,significado_numero
+o que tarsila quis dizer com essa obra,significado_obra
+o que representam os números na tela,significado_numero
+o que o artista quis dizer com a obra,significado_obra
+qual é o local da obra,localização_obra
+porque no lado esquerdo do coador possui o número,significado_numero
+o que significa o número na obra são paulo,significado_numero
+o que significa o número,significado_numero
+o que representa os números na pintura,significado_numero
+significa um quadro,significado_obra
+que essa obra representa,significado_obra
+havia um pessoas e animais neste lugar,pessoas_obra
+quem são os personagens da obra,pessoas_obra
+em que lugar de são paulo fica esse coqueiro,localização_obra
+qual o significado dos números na obra,significado_numero
+o que significa os aquela placa de número,significado_numero
+o que significa esse número,significado_numero
+qual que é o que o que se apresenta na hora,significado_obra
+conte sobre a obra,significado_obra
+o que mais eu deveria estar entendendo nesse quadro,significado_obra
+em qual local de são paulo é o quatro,localização_obra
+o que seriam os números na obra,significado_numero
+qual o significado do quadro,significado_obra
+qual é o significado da obra,significado_obra
+o que significa os números nela,significado_numero
+havia pessoas e animais morando ali,pessoas_obra
+foi-foi feito quando,data_obra
+porque aí tem duas pessoa,pessoas_obra
+que números são esses,significado_numero
+o que significa o número 135 831,significado_numero
+fale sobre os números,significado_numero
+qual é a intenção da tarsila nesse,significado_obra
+são dois bonecos na imagem vermelho azul,pessoas_obra
+que número é esse,significado_numero
+o que mais fora a modernidade ele quis passar nessa obra,significado_obra
+isso é a capital de são paulo,localização_obra
+é o que é o número,significado_numero
+conte me mais sobre a obra,significado_obra
+significam aqueles números,significado_numero
+o que representam os numeros,significado_numero
+sobre representa o que,significado_obra
+do que se trata essa obra,significado_obra
+qual objetivo da obra,significado_obra
+conte-me tudo sobre o quadro são paulo,significado_obra
+qual o significado da obra,significado_obra
+qual a história da obra,significado_obra
+onde fica esse lugar,localização_obra
+que lugar é esse,localização_obra
+em que lugar,localização_obra
+que são os números da obra,significado_numero
+qual o significado dos números,significado_numero
+porque o número 35831,significado_numero
+o que são os números na obra,significado_numero
+o que significa esse número 13583,significado_numero
+o que quer dizer o número 13583,significado_numero
+qual significado essa obra,significado_obra
+onde é esse lugar,localização_obra
+que que significa números,significado_numero
+o que são aqueles números,significado_numero
+o que significa o número no quarto,significado_numero
+o que representam os números no quadro,significado_numero
+qual significado da obra,significado_obra
+o que simboliza o número no fundo,significado_numero
+porque está com número 13583,significado_numero
+porque ele fez essa obra,significado_obra
+qual local de são paulo está sendo representado nessa obra,localização_obra
+que números são aqueles,significado_numero
+o que significa os números no quadro são paulo,significado_numero
+números tem algum significado,significado_numero
+onde ela foi feita,sem_resposta
+o que ela retrata,significado_obra
+o que significa o número representado meu prédio amarelo ao canto superior por esquerdo da obra,significado_numero
+sobre tarsila do amaral,biografia_tarsila
+aquele vagão o que que está fazendo ali,elementos_bonde
+o que são os bonecos em baixo,pessoas_obra
+o que é obra significa,significado_obra
+watson fala sobre a obra são paulo,significado_obra
+que número sou aqueles atrás do quadro,significado_numero
+qual significado,significado_obra
+sobre o que,significado_obra
+o que os números representam,significado_numero
+fale mais sobre a pintura,significado_obra
+porque não tem nenhuma pessoa,pessoas_obra
+no centro da cidade onde,localização_obra
+onde fica esse prédio,localização_obra
+que os números signifique,significado_numero
+porque tem esse número,significado_numero
+o que são esses números na la pintura,significado_numero
+o que significa o número 13583,significado_numero
+o que representa esse número escrito,significado_numero
+o que quer dizer o número do quadro,significado_numero
+vai me contar história de sobra,significado_obra
+que obra retrata,significado_obra
+qual é a história da sua obra,significado_obra
+porque as pessoas tem rabo,pessoas_obra
+fale sobre o momento modernista no brasil,obra_contexto_histórico
+o que é aqueles números,significado_numero
+o que quer dizer os números,significado_numero
+o que é o número 13583,significado_numero
+qual cidade é,localização_obra
+o que está retratada nessa obra,significado_obra
+porque tem números em um dos prédios,significado_numero
+por que são aqueles números no prédio,significado_numero
+o que são aqueles números nutella,significado_numero
+o que significa o número que aparece na quadra,significado_numero
+o que representam os números na obra,significado_numero
+sobre a obra,significado_obra
+o que são as duas bolas brancas,pessoas_obra
+quando você nasceu,nascimento_autor
+qual o significado dos números na obra 13583,significado_numero
+fale sobre a obra,significado_obra
+onde você está,localização_obra
+que são esses números,significado_numero
+porque tem aquela sequência de números em cima do quadro,significado_numero
+o que são uso os números na obra,significado_numero
+o que são esses números,significado_numero
+o que significam os números uma pintura,significado_numero
+e esse número 13583,significado_numero
+é explicar obra pra mim por favor,significado_obra
+quem é tarsila do amaral,biografia_tarsila
+fale sobre artista,biografia_tarsila
+que área de são paulo está representada no quadro,localização_obra
+porque lateral da obra a um número,significado_numero
+porque tem números no quadro,significado_numero
+o que significa o número do quadro,significado_numero
+lugar está representada na obra,localização_obra
+significado da numeração,significado_numero
+porque tem um número a sua esquerda superior,significado_numero
+o que significa um número escrito no prédio,significado_numero
+o que significa numeração no canto esquerdo da tela,significado_numero
+o que que esse número,significado_numero
+qualquer história desse quadro,significado_obra
+que representam os números 13583,significado_numero
+de que ano é a obra,data_obra
+o que significa o número desenhado no quadro,significado_numero
+que significa obra,significado_obra
+isso é um parque,localização_obra
+o que significa o número pintado,significado_numero
+o que retrata obra,significado_obra
+significado do número 1358312,significado_numero
+porque tem um número bem no canto da do quadro,significado_numero
+e o que são esses números,significado_numero
+qual o significado desta obra,significado_obra
+quando foi feito,data_obra
+o que representa número 13 58 31,significado_numero
+o que significa o número que está na no quatro,significado_numero
+que significa numeração esquerda,significado_numero
+qual o significado dos números no lado esquerdo superior,significado_numero
+o que é o número que eu tenho dos prédios 1358 31,significado_numero
+o que são os números 13 58 31,significado_numero
+porque essa obra se chama são paulo,significado_obra
+que que é esse número na obra,significado_numero
+porque dos números na tela 1013 135 831,significado_numero
+fale me sobre a obra,significado_obra
+que número é esse 3000 135.831,significado_numero
+qual região de são paulo,localização_obra
+essa obra representa qual parte de são paulo,localização_obra
+porque aparece um número,significado_numero
+os números do que representa,significado_numero
+da onde essa pintura,localização_obra
+porque seu número,significado_numero
+o que significa esses números na obra,significado_numero
+onde é essa paisagem,localização_obra
+que significam os números,significado_numero
+qual significado dessa obra,significado_obra
+ta aonde essa paisagem,localização_obra
+qual o significado dos números do quadro,significado_numero
+porque tem esses números,significado_numero
+o que significa o número da pintura,significado_numero
+o que representou número 135831,significado_numero
+o porquê do número no prédio,significado_numero
+significado do quadro,significado_obra
+qual realmente o significado desta obra são paulo,significado_obra
+que os números representam,significado_numero
+o que significa o número lá no retrato,significado_numero
+o que significa aqueles números,significado_numero
+tarsila quis dizer com o quadro,significado_obra
+sobre a obra são paulo,significado_obra
+que lugar de são paulo,localização_obra
+que significa o número 13583,significado_numero
+que significa esse número,significado_numero
+quais são esses números,significado_numero
+onde esse cara está,localização_obra
+que significa esses números,significado_numero
+porque é o número 13583,significado_numero
+porque seriam aqueles números,significado_numero
+o que significam os números o que significa as numerações,significado_numero
+o que significa 13583,significado_numero
+me fale o que é o número 135831,significado_numero
+que esse quadro significa,significado_obra
+que representa palmira nesse quatro,elemento_árvore_fundo
+por parte de são paulo representada na pintura,localização_obra
+aonde é esse lugar,localização_obra
+porque os números,significado_numero
+o que é esse número 13 58 31,significado_numero
+o que significa os números no quadro,significado_numero
+uma história dessa obra,significado_obra
+obra que número é esse que tem na sua pintura onde 3583.,significado_numero
+o que significa os números,significado_numero
+o que significa esses números,significado_numero
+o que quer dizer os números da tela,significado_numero
+sobre o que é obra são paulo,significado_obra
+que elementos a gente identificar na hora,significado_obra
+o que são os números do prédio,significado_numero
+o número o que é esse número na pintura,significado_numero
+é desta obra fala qual a história dessa obra,significado_obra
+sobre o que a obra fala,significado_obra
+o que seriam aqueles números,significado_numero
+o que quer dizer os números do quadro,significado_numero
+qual é a história desse quadro,significado_obra
+é uma ponte um viaduto que é retratado na obra,elementos_viaduto
+ponte nessa imagem,elementos_viaduto
+o que essa ponte,elementos_viaduto
+isso aqui é uma ponte,elementos_viaduto
+ela pergunta o que são aquelas coisas pretas,elementos_viaduto
+bonde está passando por uma ponte,elementos_viaduto
+é um trem,elementos_bonde
+é um bonde que é retratado próximo ao viaduto do chá,elementos_bonde
+é um bonde lá traz,elementos_bonde
+é um bonde,elementos_bonde
+é possível ver um trem,elementos_bonde
+tem um trem ou é um trailer,elementos_bonde
+tem um trem é um fundo,elementos_bonde
+tem um trem ao fundo da imagem,elementos_bonde
+tem um bonde nessa cena,elementos_bonde
+tem um bonde na pintura,elementos_bonde
+tem algum transporte na obra,elementos_bonde
+que são esses quadrados pretos é um trem,elementos_bonde
+qual é a representação do trem,elementos_bonde
+porque tem um trem aí,elementos_bonde
+porque tem um bondinho,elementos_bonde
+porque tem um bonde,elementos_bonde
+porque aparece uma gaiola com rodas,elementos_bonde
+o que é esse ônibus,elementos_bonde
+o que significa trem o trem que tem aí,elementos_bonde
+existe um bondinho na obra,elementos_bonde
+e sobre as torres é um trem ou já é o metrô,elementos_bonde
+até o que significa o trem,elementos_bonde
+aquilo é um trem,elementos_bonde
+é uma garrafa azul,elemento_azul
+é um poste uma garrafa,elemento_azul
+quem é a pessoa de azul,elemento_azul
+que que é esse esse outro negócio com uma cor azul,elemento_azul
+qual é o artefato azul que parece é uma pessoa,elemento_azul
+porque tem meio que uma garrafa é de água azul com uma bola em cima,elemento_azul
+porque aparece um pino azul,elemento_azul
+o que é um símbolo azul,elemento_azul
+o que é um homem azul que parece uma garrafa,elemento_azul
+o que é um elemento azul,elemento_azul
+o que é objeto azul na lateral esquerda direita,elemento_azul
+o que é o elemento azul na direita da imagem,elemento_azul
+esse azul que parece uma garrafa,elemento_azul
+porque uma das figuras tem o rabo,elemento_vermelho
+porque a pessoa de vermelho tem um rabo,elemento_vermelho
+tem um rio na pintura,elementos_rio
+quem quem pintou essa obra,autor_obra
+porque duas pessoas,pessoas_obra
+o que são estes objetos,pessoas_obra
+qual é o tipo de pintor,estilo_pintura
+quando que foi criada,data_obra
+em que ano foi feita,data_obra
+de que ano esse quadro,data_obra
+qual o seu valor,valor_obra
+quem é tarsila do amaral,biografia_tarsila
+gostaria de saber sobre a tarsila do amaral,biografia_tarsila
+qual a importância de tarsila pra modernismo brasileiro,importância_artista
+qual a história do quadro,significado_obra
+o que significa figura de vermelho a frente,elemento_vermelho
+o que esse quadro representa,significado_obra
+fale mais sobre a obra,significado_obra
+do que o que retrata quatro,significado_obra
+a torre verde atrás do prédio representa o que,elemento_estrutura_metal
+tenho pessoa com rabo,elemento_vermelho
+o que é o elemento azul,elemento_azul
+como tem um coqueiro se aparece mais agem urbana,elemento_árvore_fundo
+porque a personagem na obra tem um rabo,elemento_vermelho
+o que significa o menino de roupa vermelha é o menino é um macaco,elemento_vermelho
+quantos anos tarsila do amaral tinha quando ela tenta essa hora,idade_autor_obra
+quem são essas pessoas que estão no quadro,pessoas_obra
+porque a maioria das cores utilizadas foi verde anjo,cores_obra
+qual a influência de leger nessa obra de tarsila,influências_artista
+quando esta obra foi feita,data_obra
+que lugar é esse,localização_obra
+qual a ideia da quadra,significado_obra
+fale me sobre essa obra,significado_obra
+aquela garrafa de água,elemento_azul
+porque tem uma figura nessa obra que tem na imagem parece o rabo,elemento_vermelho
+quem são essas pessoas no quadro,pessoas_obra
+porque no meio da sociedade retratada no quadro tem uma bomba de gasolina fora de um poste,pessoas_obra
+o que são essas coisas por meninos e azuis do lado da árvore,pessoas_obra
+aí tem pessoas,pessoas_obra
+qual é o estilo dessa obra,estilo_pintura
+qual estilo nessa obra,estilo_pintura
+explique o movimento modernista,estilo_pintura
+quem foi tarsila do amaral,biografia_tarsila
+me fale sobre artista,biografia_tarsila
+fale sobre tarsila,biografia_tarsila
+aqueles prédios são antigos,elemento_edifício
+qual a sua história,significado_obra
+o que é tarsila do amaral quis dizer com essa obra,significado_obra
+que lâmpadas são essas,pessoas_obra
+o que essa obra quis retratar,significado_obra
+o que a pintura retrata,significado_obra
+me fale sobre essa obra,significado_obra
+me conta história desse quatro,significado_obra
+intuito da hora,significado_obra
+esse quadro abstrato,significado_obra
+essa pessoa rabo,sem_compreensão
+tem uma figura de gato na obra são paulo,elemento_vermelho
+o que que significa esse objeto com a roupa vermelha,elemento_vermelho
+a obra de quem,autor_obra
+que obra é essa,nome_obra
+qual a relação do grupo novo que modernista,estilo_pintura
+em que ano ele pintou a esta obra,data_obra
+"quem é que está, do amaral",biografia_tarsila
+me conte um pouco mais sobre a trajetória da autora,biografia_tarsila
+quais as principais outras obras da artista,outras_obras
+o que é obra representa,significado_obra
+o que significa esta obra,significado_obra
+por que foi o modernismo,estilo_pintura
+o que a população achava dessa obra,sem_resposta
+o que é a figura azul na hora,elemento_azul
+o que que é objeto azul,elemento_azul
+o homem tem rabo,elemento_vermelho
+tem pessoas,pessoas_obra
+porque essa pessoa tão mal,pessoas_obra
+qual movimento artístico pertence essa obra,estilo_pintura
+qual estilo de tarsila,estilo_pintura
+qual foi inspiração da artista ao criar obra,inspiração_obra
+com o valor dessa obra,valor_obra
+porque tarsila foi importante,biografia_tarsila
+e os prédios no último plano da obra,elemento_edifício
+o que está se ela representa na obra,significado_obra
+que que é objeto uso,sem_compreensão
+porque tem uma pessoa de rabo,elemento_vermelho
+isso é uma garrafa,elemento_azul
+porque é um uma palmeira,elemento_árvore_fundo
+quem pintou esse quadro,autor_obra
+quantos anos ela tinha quando pinto essa obra,idade_autor_obra
+quem são os personagens sem rosto,pessoas_obra
+qual é a técnica de dor tintura,técnica_obra
+quais foram os materiais usados para essa obra,técnica_obra
+quando foi feito,data_obra
+o que retrata essa obra,significado_obra
+o que está retratando a obra,significado_obra
+porque que dá impressão de que é um rabo e uma garrafa,elemento_vermelho
+o que o que representa a imagem com vermelho,elemento_vermelho
+quem foi o pintor que fez essa obra,autor_obra
+e como se chama essa obra,nome_obra
+qual movimento artístico pintor extensa,estilo_pintura
+onde morreu artista,morte_autor
+qual a história dessa pintura,significado_obra
+o que o artista quis dizer com esse quatro,significado_obra
+fale sobre são paulo,significado_obra
+e tem quanto tempo,sem_compreensão
+watson você está bem,sem_resposta
+porque tem uma pessoa com rabo,elemento_vermelho
+o que significa a garrafa do lado inferior azul,elemento_azul
+o que essa pessoa vermelha é uma pessoa ou animal,elemento_vermelho
+e do lado da árvore em vermelho com uma bola branca em cima o que é,elemento_vermelho
+o que são as pessoas no quatro,pessoas_obra
+explicação sobre as figuras humanas,pessoas_obra
+qual é o período artístico então,estilo_pintura
+qual a técnica,técnica_obra
+o que essas cores representam,cores_obra
+quem foi tarsila,biografia_tarsila
+o que você representa,significado_obra
+fale mais sobre a obra são paulo,significado_obra
+quem é essa pessoa tem o rabo,elemento_vermelho
+existiu muitas casas e prédios nessa época em 1924,sem_resposta
+quem são as pessoas da obra,pessoas_obra
+quando a tarsila se casou,casamento_artista
+alguns dos edifícios retratados podem ser identificados pelo nome e ainda existe,elemento_edifício
+porque a pintura se chama são paulo,significado_obra
+o que você quer representar,significado_obra
+o que esse quadro significa,significado_obra
+existem é vários prédios isso representa o modernismo,elemento_edifício
+porque existe uma uma palmeira,elemento_árvore_fundo
+e esse vermelho é um animal,elemento_vermelho
+quantas pessoas tem no quadro,pessoas_obra
+e o que significa a bomba de gasolina,pessoas_obra
+quantas cores tem esse quadro,cores_obra
+essa coisa azul é uma bomba de gasolina,elemento_azul
+porque é apenas uma bananeira na hora,elemento_árvore_fundo
+o que é figura vermelho na tela,elemento_vermelho
+qual é o nome desse rio,elementos_rio
+quem pintou essa obra,autor_obra
+quem é essa pessoa do quadro,pessoas_obra
+o ano que foi feita sobra,data_obra
+e qual foi o ano de composição da obra,data_obra
+de quando essa obra,data_obra
+eu tem que apertar e falar ao mesmo tempo é quem foi tarsila do amaral,biografia_tarsila
+existe um prédio na imagem,elemento_edifício
+o que significa esta pintura,significado_obra
+o que significa essa obra,significado_obra
+qual a idade de tarsila do amaral quando pintor está obra,idade_autor_obra
+o que ela quer se tratar,significado_obra
+porque tem um rabino,sem_compreensão
+o que significa a garrafa azul,elemento_azul
+watson porque a mulher tem rabo na sola,elemento_vermelho
+porque que tem uma bomba de gasolina nessa pintura,pessoas_obra
+qual foi o estilo,estilo_pintura
+que dia ela foi criada,data_obra
+o que quer dizer é só usar,sem_compreensão
+o elemento azul que é,elemento_azul
+e a figura azul representa o que,elemento_azul
+o que é o azul e o pote vermelho na obra,elemento_vermelho
+este rio é o rio tietê,elementos_rio
+quem foi autor,autor_obra
+quem são as figuras que está no quatro,pessoas_obra
+porque as pessoas tem rabo,pessoas_obra
+qual é o estilo artístico da sala,estilo_pintura
+é sobre esteve na semana de arte moderna,semana_arte_moderna
+ela foi inspirada em que,inspiração_obra
+obra que ano você foi pintada,data_obra
+em que ano a tarsila pintou esse quadro,data_obra
+de que ano que é esse quadro,data_obra
+quanto custa essa obra,valor_obra
+o que são esses prédios na paisagem,elemento_edifício
+porque ela escolheu pintar unha ingabaú,significado_obra
+o que retrata poste azul,elemento_azul
+quem são essas pessoas no quatro,pessoas_obra
+tarsila do amaral era uma pintura moderna,estilo_pintura
+quem foi a inspiração não,inspiração_obra
+quais são as cores utilizadas na obra,cores_obra
+quando foi pintada,data_obra
+ok buscar retratar essa obra,significado_obra
+o que está representado está obra,significado_obra
+o que representa o vagão à direita,elementos_bonde
+fale-me sobre esta obra,significado_obra
+fale mais sobre são paulo,significado_obra
+a obra tem algum prêmio,premio_obra
+e essa pessoa que tem um rabo,elemento_vermelho
+deparar com o que,sem_compreensão
+o que representa um elemento azul à frente da obra,elemento_azul
+porque o personagem que está indo com uma roupa vermelha parece que tem um rabo,elemento_vermelho
+quem fez a obra,autor_obra
+quem são os personagens que aparece,pessoas_obra
+qual o estilo dessa obra,estilo_pintura
+porque essas cores foram utilizadas,cores_obra
+que ano é esse quadro foi,data_obra
+qual o ano da obra,data_obra
+essa obra tem quantos anos,data_obra
+qual seria o valor de mercado dessa obra,valor_obra
+me fale sobre a obra,significado_obra
+fale sobre,significado_obra
+o que é ser cidadão vermelho representa com um rabo,elemento_vermelho
+esse é objeto vermelho é uma caco,elemento_vermelho
+qual é o rio retratado na foto na obra,elementos_rio
+seriam duas pessoas,pessoas_obra
+por que lá está cheio de pessoa estranha,pessoas_obra
+qual estilo de pintura deste quadro,estilo_pintura
+além da tarsila quais outros artistas representavam essa escola,influências_artista
+quanto tempo ela demorou pra pintar essa hora,duração_obra
+fale me sobre a obra,significado_obra
+esse quadro tem o que,significado_obra
+e essas peça pessoas aparecem de camisa vermelha,elemento_vermelho
+impermeável da bomba de gasolina representa alguma coisa,sem_compreensão
+porque a representação do coqueiro na obra,elemento_árvore_fundo
+quadro que são que essa coisa vermelha,elemento_vermelho
+porque o homem de vermelho tem um rabo,elemento_vermelho
+o que é uma das pessoas para se ter um rabo,elemento_vermelho
+o que é esse rabo nessa obra,elemento_vermelho
+o que que aquele coisa lá de roupa vermelha,elemento_vermelho
+porque ela sempre constrói torres,sem_resposta
+quem pintou o quadro a são paulo,autor_obra
+quem fez essa obra,autor_obra
+são pessoas ou não,pessoas_obra
+porque as pessoas não tem braços,pessoas_obra
+o que são esses dois figuras centrais na obra,pessoas_obra
+é essa obra,nome_obra
+quais outros pintores era modernista no brasil,influências_artista
+em que dia ele foi pintado,data_obra
+tarsila morava em são paulo,moradia_autor
+qual o valor deste quadro,valor_obra
+quem foi tarsila de amaral,biografia_tarsila
+qual a história de tarsila já,biografia_tarsila
+fale sobre a autora,biografia_tarsila
+quando morreu tarsila do amaral,morte_autor
+por favor fale sobre a obra,significado_obra
+esse rio ainda existe,elementos_rio
+a pessoa com rabo o que é,elemento_vermelho
+porque as pessoas rabo não tem não tem cor,elemento_vermelho
+isso isso é um poste essa coisa azul grande com quadrados pretos é um poste,elemento_azul
+embaixo das duas torres são é um rio,elementos_rio
+quem pintou são paulo que realmente foi,autor_obra
+obra quem fez,autor_obra
+tem pessoas e animais na obra,pessoas_obra
+quem são os personagens da obra,pessoas_obra
+porque tem um moço,pessoas_obra
+porque as pessoas parecem gatos,pessoas_obra
+qual o nome dessa obra,nome_obra
+quais as técnicas utilizadas nessa obra,técnica_obra
+o porque de cores frias,cores_obra
+que época esse quadro,data_obra
+quando pintar essa obra,data_obra
+quais são os elementos representados na obra,características_obra
+qual a intenção da pintura pintura da obra,significado_obra
+explicar essa,significado_obra
+e o que representa a figura de azul,elemento_azul
+atrás do poste de luz é um rio,elementos_rio
+os elementos azul e vermelho no primeiro plano são pessoas,pessoas_obra
+em qual período que eu fiz essa obra,data_obra
+tarsila do amaral foi casada,casamento_artista
+fale sobre autora dólar,biografia_tarsila
+o que significa os números,significado_numero
+o que está se ela quis descrever uma obra são paulo,significado_obra
+me fale sobre o quadro,significado_obra
+fale sobre a obra,significado_obra
+comentário sobre a obra,significado_obra
+a pintura foi feita de dia ou durante a noite,clima_obra
+essa obra tem alguma relação com brasília,localização_obra
+porque ela não tem braço,pessoas_obra
+e o elemento em azul,elemento_azul
+o que significam as pessoas com rabos na pintura,pessoas_obra
+qual a escola da arte,estilo_pintura
+em qual movimento artístico,estilo_pintura
+em que ano foi pintada falar,data_obra
+qual a importância desse quadro,importância_obra
+me me fala um pouco mais sobre a tarsila do amaral,biografia_tarsila
+quando você nasceu,nascimento_autor
+atar senhor da amaral está viva,morte_autor
+porque a pintura foi feita de pra são paulo,significado_obra
+o que representa obra,significado_obra
+a sequência numérica no quadro tem alguma simbologia,significado_numero
+então esse retrato representam a são paulo,localização_obra
+e aí elemento azul do que se trata,elemento_azul
+porque na sua obra de arte uma das pessoas tem um rabo,elemento_vermelho
+quem foi o pintor que fez isso,autor_obra
+tem pessoas nessa pintura,pessoas_obra
+quem são as pessoas do,pessoas_obra
+não sei o que eu pergunto tem alguma pessoa retratada,pessoas_obra
+qual é a técnica utilizada na obra,técnica_obra
+fale sobre a obra em são paulo,significado_obra
+porque a pessoa do quatro tem um rabo,elemento_vermelho
+o que significa esse coqueiro no couro,elemento_árvore_fundo
+onde que ano foi pintado,data_obra
+o que representa esse quadro,significado_obra
+porque tenho pessoa com rabo,elemento_vermelho
+e o coqueiro o que o que significa,elemento_árvore_fundo
+que ela utiliza formas geométricas,formas_obra
+quem são os dos personagens,pessoas_obra
+porque a pessoa tem um rabo,pessoas_obra
+qual é o ano,data_obra
+porque ela escolheu vai tratar são paulo,significado_obra
+o que significa obra são paulo,significado_obra
+quantas obras tarsila desenvolve ao longo da vida,sem_resposta
+porque o homem tem rabo,elemento_vermelho
+porque a dois personagens na obra,pessoas_obra
+e quais os recursos usados para fazer essa tela,técnica_obra
+e as cores,cores_obra
+porque esse quadro se chama são paulo,significado_obra
+o que essa pintura representa,significado_obra
+porque que o personagem tem rabo,elemento_vermelho
+porque é existe somente uma única árvore lá na obra são paulo,elemento_árvore_redonda
+tem uma palmeira no quadro porque,elemento_árvore_fundo
+o que representa o coqueiro,elemento_árvore_fundo
+e o que o artista quis representar com o elemento vermelho com a bomba de combustível,elemento_vermelho
+tem algo que parece um rio atrás do poste de luz é um rio ou é uma rua,elementos_rio
+autor desse quatro,autor_obra
+no quadro tem menino,pessoas_obra
+pergunta no no que ela se inspirou para fazer a obra são paulo,inspiração_obra
+qual objetivo das cores,cores_obra
+porque aliás são paulo,significado_obra
+o que significa,significado_obra
+porque existe uma palmeira em cima da passarela,elemento_árvore_fundo
+coqueiro é aspecto moderno,elemento_árvore_fundo
+porque um dos homens tem rabo,elemento_vermelho
+o que que é-vermelho uma bola branca em cima do lado da árvore,elemento_vermelho
+quais são as formas geométricas que tem nesse quatro,formas_obra
+quem foi que pintou o quadro,autor_obra
+porque o poste e app o ser humano tem o mesmo formato,pessoas_obra
+o que significam a pessoa com rabo,pessoas_obra
+o que estilo essa obra,estilo_pintura
+qual inspiração dessa obra,inspiração_obra
+como ela se inspirou em fazer a sobra,inspiração_obra
+quando foi pintado,data_obra
+ela era casada,casamento_artista
+quanto vale essa obra,valor_obra
+quem é tarsila de amaral,biografia_tarsila
+qual o significado da obra,significado_obra
+qual a história dessa obra,significado_obra
+porque ela fez essa obra,significado_obra
+o que tarsila do amaral quis retratar com esta obra,significado_obra
+o que o quadro retrata,significado_obra
+o que levou a fazer essa,significado_obra
+porque que tem um uma pessoa com rapa,sem_compreensão
+porque ele tem rabo,elemento_vermelho
+o que o rio representa na arte,elementos_rio
+porque as árvores eram retratadas de forma tão geométrica,formas_obra
+quem pintou a obra,autor_obra
+o que quer dizer esses dois bonecos um vermelho e um azul,pessoas_obra
+tarsila do amaral segue que tipo de minha na pintura,estilo_pintura
+o que o verde significa,cores_obra
+quanto tempo levou pra ficar pronto,duração_obra
+qual é a história do artista,biografia_tarsila
+qual o sentido da obra,significado_obra
+porque a obra se chama são paulo,significado_obra
+o que retrata essa pintura,significado_obra
+qual a proposta das cores,cores_obra
+pra onde vai o bonde representado na pintura,destino_bonde
+e o que é o elemento razão,sem_compreensão
+tem uma palmeira no fundo dos juntos prédios no segundo plano,elemento_árvore_fundo
+porque um homem de vermelho tem um rabo,elemento_vermelho
+o que é esse objeto vermelho na cena,elemento_vermelho
+a moça tem rabo,elemento_vermelho
+rio é esse que está na pintura,elementos_rio
+quantos anos tinha artista,idade_autor_obra
+gostaria de saber quem pintou essa obra de,autor_obra
+qual foi a técnica utilizada,técnica_obra
+o que é artista sempre usar cores primárias e nesse quadro ou a maioria delas são cores primárias,cores_obra
+qual o valor aproximado desta obra em são paulo,valor_obra
+porque que ela quis retratar mesmo,significado_obra
+porque tem um coqueiro da imagem,elemento_árvore_fundo
+porque tem um rabo do boneco vermelho,elemento_vermelho
+quem é o autor,autor_obra
+as bombas de gasolina significa o que,pessoas_obra
+porque essa pintura inspirada em são paulo,inspiração_obra
+me fala um pouco da tarsila do amaral,biografia_tarsila
+porque essa chamada são paulo,significado_obra
+o que é pintura representa,significado_obra
+como fazer sol,sem_compreensão
+porque a palmeira está sozinha no fundo,elemento_árvore_fundo
+existe um rio representado na pintura,elementos_rio
+qual o significado das linhas retas,formas_obra
+quem foi a pintura,autor_obra
+que inspirou a tarsila do amaral fazer esse quarto,inspiração_obra
+me fale sobre tarsila da lara ela,biografia_tarsila
+porque ele escolheu vale do ingabaú,significado_obra
+o que significa obras são paulo,significado_obra
+quem fez o que ela queria dizer com esta obra e qual data você é obra foi feita,sem_compreensão
+fale me sobre ela pra são paulo,sem_resposta
+o que significa o coqueiro,elemento_árvore_fundo
+o nome daquele rio,elementos_rio
+porque a pessoa que vejo ele estava com um copo,pessoas_obra
+qual é o tipo de arte,estilo_pintura
+qual foi a inspiração para estar acima da moral pintar a tela são paulo de quatro,inspiração_obra
+qual a principal influência dessa obra,influências_artista
+qual história do quadro,significado_obra
+o que representa esse imagem,significado_obra
+o que está retratado nessa obra,significado_obra
+o que é esse negócio do com o rabo,elemento_vermelho
+existe uma palmeira na parte,elemento_árvore_fundo
+que que aquele negócio vermelho está fazendo,elemento_vermelho
+quem são essas duas pessoas na obra,pessoas_obra
+em que museu ela está,museu_obra
+qual o significado desse quadro,significado_obra
+o que ela queria representar,significado_obra
+e o que que significa esse quadro,significado_obra
+objeto vermelho é um animal,elemento_vermelho
+porque tem duas pessoas na imagem,pessoas_obra
+isso é um galão de posto de gasolina,pessoas_obra
+qual o valor desta obra,valor_obra
+o que representa o quadro,significado_obra
+são pessoas andando na rua,pessoas_obra
+o que são esses essas bolas brancas,pessoas_obra
+fale sobre essa pintura,significado_obra
+então representação de uma fábrica,elemento_estrutura_metal
+essa obra teve influência cubista,formas_obra
+o que esperar o artista nos detalhes,sem_compreensão
+mais informações sobre a obra,significado_obra
+o que significa esse quadro,significado_obra
+o que que ela quis dizer com essa obra,significado_obra
+o que essa obra significa,significado_obra
+explicar obra,significado_obra
+me fala sobre a tarsila,biografia_tarsila
+o que o quadro representa,significado_obra
+o que ela significa,significado_obra
+o que a obra representa,significado_obra
+conta história dessa obra,significado_obra
+o que significa a figura azul em formas de garrafa em baixo à direita,elemento_azul
+com a história do quadro,significado_obra
+o que são os números,significado_numero
+e o que ela quis dizer com esta obra,significado_obra
+quais são as técnicas aplicadas as pinturas modernas,técnica_obra
+Qual a técnica utilizada no quadro?,técnica_obra
+Qual a técnica utilizada?,técnica_obra
+que são essas figuras no quadro,pessoas_obra
+o que representa essa pessoa devia de azul,elemento_azul
+quem é a pessoa retratada no quadro,pessoas_obra
+o que que é isso de vermelho,elemento_vermelho
+e as pessoas,pessoas_obra
+esse cara de vermelho tem um rabo,elemento_vermelho
+o que é aquela escultura vermelha,elemento_vermelho
+são duas pessoas em primeiro plano,pessoas_obra
+aquela figura vermelha é uma pessoa,elemento_vermelho
+porque o personagem tem um rabo,elemento_vermelho
+o que é o rabo no na figura,elemento_vermelho
+e o pote azul também na frente da imagem,elemento_azul
+e o que é o boné com azul,elemento_azul
+essa pessoa de vermelho no quarto passei um ralo,elemento_vermelho
+existem pessoas nessa obra,pessoas_obra
+que animal está pintado na obra,pessoas_obra
+e o de azul o que é,elemento_azul
+o que é o rabo do macaco,elemento_vermelho
+ta aonde é a obra,sem_compreensão
+E essa pessoa que tem rabo,elemento_vermelho
+qual a intenção de artes tal fazer a obra,sem_compreensão
+de gar curiosidade sobre a obra,significado_obra
